@@ -1,6 +1,23 @@
 # Registro degli asset di EIDOLON
 
-Riferimenti approvati per la direzione visiva: [tavole e direzione creativa](creative-direction.md). Le quantità indicate come obiettivi iniziali servono a stimare il lavoro. I roster nominativi e i conteggi dei livelli seguono il [canone](../narrative/story.md). Usare gli ID dei registri di reparto quando già assegnati.
+La [direzione creativa](creative-direction.md) guida la produzione. I roster nominativi e i conteggi dei livelli seguono il [canone](../narrative/story.md). Usare gli ID dei registri di reparto quando già assegnati.
+
+## Quantità approvate
+
+| Categoria | Quantità e unità |
+| --- | --- |
+| Personaggi canonici | **22 identità già schedate**, compresi i sette dèi. Completare il roster con i cinque fondatori senza nome e gli altri ruoli canonici previsti in scena. |
+| Mostri comuni | **225 voci distinte di bestiario.** |
+| Giganti | **75 voci distinte di bestiario.** La campagna richiede comunque 100 vittorie per raggiungere la seconda cinta. |
+| Titani | **25 voci distinte di bestiario.** |
+| Boss | **20 incontri principali nei dungeon**, 10 nell’Abisso e 10 nella Scala dell’Eternità, più gli scontri narrativi fuori dai dungeon. |
+| Classi | **6 classi dei compagni.** La progressione di Kael ha una definizione dedicata. |
+| Armi | **60**, 10 per classe. |
+| Armature | **30 set**, 10 fasce per ciascuna categoria leggera, media e pesante. |
+| Reliquie | **7 equipaggiabili**, una per divinità. Il Cuore dell’Eternità è censito tra gli artefatti di trama. |
+| Sigilli | **2 canonici**, Egida e Orizzonte. |
+
+Le tre categorie di creature comprendono **325 voci di bestiario**. Ogni voce avrà un’identità, un habitat e un ruolo riconoscibile negli incontri. Rig, materiali e moduli possono servire più creature quando le differenze di forma e di comportamento restano leggibili. I **200 piani** (100 per dungeon) e gli **incontri boss** hanno conteggi propri.
 
 ## Lotto 1 — Prima Discesa
 
@@ -23,8 +40,8 @@ Riferimenti approvati per la direzione visiva: [tavole e direzione creativa](cre
 | Famiglia | Copertura da produrre |
 | --- | --- |
 | Personaggi e civili | Kael, famiglia Veyr, tutti e sei i compagni (Riven, Aiden, Selene, Nyra, Theron, Iris), Aldren Vael, Lucien Ashford, Edran e gli altri ruoli canonici, compresi gli abitanti di Vareth e i fondatori che compaiono in scena. Kit modulari per Gilda, civili, guardie, artigiani e avventurieri, con costumi per città e ruolo. |
-| Mostri e boss | Famiglie delle Catacombe e degli altri biomi dell’Abisso, creature degli abissi oceanici, creature celesti e frammenti divini della Scala, guardiani e boss del canone. Tenere distinti il mostro del piano 90 («Ricorda») e il Custode del piano 100. Quadrupede fungino e rettile scavatore sono candidati delle tavole; collocazione e comportamento da definire. |
-| Giganti | Gigante di calcare e campanile come primo concept. Produrre famiglie biomeccaniche distinguibili, punti deboli, stati feriti e caduta, riferimenti di scala e interazione con il terreno. Il requisito di cento Giganti sconfitti è un conteggio di gioco. Il numero di modelli unici dipenderà dai ruoli degli incontri. |
+| Mostri e boss | Famiglie delle Catacombe e degli altri biomi dell’Abisso, creature degli abissi oceanici, creature celesti e frammenti divini della Scala, guardiani e boss del canone. Tenere distinti il mostro del piano 90 («Ricorda») e il Custode del piano 100. Il quadrupede fungino e il rettile scavatore sono candidati delle tavole. Collocazione e comportamento restano da definire. |
+| Giganti | Gigante di calcare e campanile come primo concept. Produrre famiglie biomeccaniche distinguibili, punti deboli, stati feriti e caduta, riferimenti di scala e interazione con il terreno. Distribuire gli incontri della prova dei 100 Giganti sulle 75 voci approvate. |
 | Titani | Titano di basalto e tempesta come primo concept. Produrre le varianti ambientali necessarie ai capitoli e ai biomi, compresi gli esemplari d’alta quota e quelli in formazione nella Scala. Servono silhouette compatibili con la scala canonica, VFX a distanza, fasi di scontro e transizione alla comparsa dei Giganti. |
 | Divinità | Sette design individuali e relativi simboli: Aurelion, Veyra, Morveth, Chronar, Ignivar, Elyria e Nhalor. Prevedere rig, costumi, manifestazioni, animazioni narrative e materiali. Per Aurelion produrre anche le forme e i segnali dello scontro conclusivo. |
 | Armi ed equipaggiamento | Spade, scudi, lance, pugnali, catalizzatori arcani e cerimoniali secondo le classi del canone. Progressione per materiali e provenienza. Lancia uncinata e reliquia a falce come candidati originali. Armature, vesti, accessori, icone, mesh impugnata e a terra. Registro di scena separato per Sigillo dell’Egida, Sigillo dell’Orizzonte, diario di Edran, chiavi della Scala e Cuore dell’Eternità. |
