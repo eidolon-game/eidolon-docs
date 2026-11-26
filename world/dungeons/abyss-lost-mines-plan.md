@@ -9,6 +9,8 @@ Proposta di level design per la fascia canonica che collega Foresta Sepolta e Re
 3. Se l'ancora è occupata, prova `abyss_021_arrival_recovery`, piazzola dello stesso settore con accesso al punto di sosta. Se entrambe falliscono o il caricamento viene interrotto, consenti la ripresa dal varco o dal checkpoint valido del 20. Una risposta persa richiede la lettura dell'esito prima del retry. Una volta confermato `abyss_021_checkpoint`, la ricarica ricostruisce il pianerottolo del 21 senza riattivare l'incontro del 20.
 4. Il giocatore vede l'`abyss_mine_borer` per la prima volta al 21 fuori dalla piazzola di arrivo. Rispetta il profilo del bestiario: creatura alta circa 300 cm, testa a cuneo, locomozione a terra e in cunicolo, carica e detriti, piastre posteriori vulnerabili. [Voce di bestiario](https://github.com/eidolon-game/eidolon-docs/blob/478ccf94def449a20f326badad3a83faa1392347/art/creatures/bestiary.json#L93-L135)
 
+Il modello del Perforatore misura circa 418 × 494 × 301 cm in posa neutra. Le placche posteriori si aprono verso l’esterno. In due render con camera fissa, la posa di recupero espone la cuticola ocra sui fianchi e alla base del dorso. L’ingombro visivo guida la larghezza della galleria e delle rientranze. Verificare in Unreal le distanze di passaggio con la capsula del giocatore, le collisioni della creatura e la visibilità durante l’animazione. [Modello e prove Blender](https://github.com/eidolon-game/eidolon-tools/tree/1c5996d808f91a26af822eaf561e6b367c8c4c31/previews/lost-mines)
+
 ## Progressione della fascia
 
 | Piano | Geometria e incontro | Interazione e condizione d'uscita |
