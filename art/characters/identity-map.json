@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "namespace": "character_art",
+  "note": "Local art namespace; legacy IDs retained; registry and gameplay mappings pending owner review.",
+  "entries": [
+    {
+      "id": "kael",
+      "legacy_id": "char.kael",
+      "variants": [
+        "civilian",
+        "recruit",
+        "veteran",
+        "eidolon",
+        "custodian",
+        "guild_commander",
+        "mortal_epilogue"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "darius",
+      "legacy_id": "char.darius",
+      "variants": [
+        "civilian",
+        "forge"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "elara",
+      "legacy_id": "char.elara",
+      "variants": [
+        "civilian",
+        "healer",
+        "oblivion"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "lyra",
+      "legacy_id": "char.lyra",
+      "variants": [
+        "civilian",
+        "oblivion_adventurer",
+        "epilogue"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "noah",
+      "legacy_id": "char.noah",
+      "variants": [
+        "civilian",
+        "oblivion",
+        "older_epilogue"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "riven",
+      "legacy_id": "char.riven",
+      "variants": [
+        "recruit",
+        "veteran",
+        "guild"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "aiden",
+      "legacy_id": "char.aiden",
+      "variants": [
+        "recruit",
+        "veteran",
+        "defender"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "selene",
+      "legacy_id": "char.selene",
+      "variants": [
+        "recruit",
+        "veteran",
+        "independent"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "nyra",
+      "legacy_id": "char.nyra",
+      "variants": [
+        "recruit",
+        "veteran",
+        "independent"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "theron",
+      "legacy_id": "char.theron",
+      "variants": [
+        "recruit",
+        "veteran",
+        "defender"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "iris",
+      "legacy_id": "char.iris",
+      "variants": [
+        "recruit",
+        "veteran",
+        "dawn"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "aldren",
+      "legacy_id": "char.aldren",
+      "variants": [
+        "public",
+        "ancient_portrait",
+        "revealed"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "lucien",
+      "legacy_id": "char.lucien",
+      "variants": [
+        "public",
+        "ancient_portrait",
+        "revealed"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "aurelion",
+      "legacy_id": "char.aurelion",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "veyra",
+      "legacy_id": "char.veyra",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "morveth",
+      "legacy_id": "char.morveth",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "chronar",
+      "legacy_id": "char.chronar",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "ignivar",
+      "legacy_id": "char.ignivar",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "elyria",
+      "legacy_id": "char.elyria",
+      "variants": [
+        "celestial"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "nhalor",
+      "legacy_id": "char.nhalor",
+      "variants": [
+        "celestial"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "edran",
+      "legacy_id": "char.edran",
+      "variants": [
+        "camp"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "vareth_child",
+      "legacy_id": "char.vareth_child",
+      "variants": [
+        "survivor",
+        "oblivion"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "founder_slot_3",
+      "legacy_id": "char.founder_slot_3",
+      "variants": [
+        "pending"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "founder_slot_4",
+      "legacy_id": "char.founder_slot_4",
+      "variants": [
+        "pending"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "founder_slot_5",
+      "legacy_id": "char.founder_slot_5",
+      "variants": [
+        "pending"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "founder_slot_6",
+      "legacy_id": "char.founder_slot_6",
+      "variants": [
+        "pending"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    },
+    {
+      "id": "founder_slot_7",
+      "legacy_id": "char.founder_slot_7",
+      "variants": [
+        "pending"
+      ],
+      "asset_registry_id": null,
+      "status": "specified"
+    }
+  ]
+}
