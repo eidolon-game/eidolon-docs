@@ -1,0 +1,501 @@
+{
+  "version": 1,
+  "source": "eidolon-docs:narrative/story.md@develop",
+  "notes": "Appearance, height and wardrobe are proposals, not canon. Unnamed founders remain placeholders. Older Noah requires separate age approval and rig. No binary assets.",
+  "characters": [
+    {
+      "id": "char.kael",
+      "name": "Kael Veyr",
+      "canonical_age": 19,
+      "role": "hero",
+      "proposed_height_m": 1.79,
+      "appearance_proposal": "lean athletic; dark brown uneven hair; grey-green eyes; olive-neutral skin",
+      "wardrobe_proposal": "undyed linen, worn brown leather, charcoal wool",
+      "variants": [
+        "civilian",
+        "recruit",
+        "veteran",
+        "eidolon",
+        "custodian",
+        "guild_commander",
+        "mortal_epilogue"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.darius",
+      "name": "Darius Veyr",
+      "canonical_age": 46,
+      "role": "family",
+      "proposed_height_m": 1.84,
+      "appearance_proposal": "broad torso; black greying hair; brown eyes; weathered skin",
+      "wardrobe_proposal": "forge apron, coarse linen, soot",
+      "variants": [
+        "civilian",
+        "forge"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.elara",
+      "name": "Elara Veyr",
+      "canonical_age": 43,
+      "role": "family",
+      "proposed_height_m": 1.66,
+      "appearance_proposal": "soft angular face; chestnut braid; grey-green eyes; warm skin",
+      "wardrobe_proposal": "sage wool, linen healer pouch",
+      "variants": [
+        "civilian",
+        "healer",
+        "oblivion"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.lyra",
+      "name": "Lyra Veyr",
+      "canonical_age": 16,
+      "role": "family",
+      "proposed_height_m": 1.63,
+      "appearance_proposal": "adolescent build; chestnut ponytail; brown eyes; warm skin",
+      "wardrobe_proposal": "modest russet tunic, sturdy boots",
+      "variants": [
+        "civilian",
+        "oblivion_adventurer",
+        "epilogue"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.noah",
+      "name": "Noah Veyr",
+      "canonical_age": 3,
+      "role": "child",
+      "proposed_height_m": 0.96,
+      "appearance_proposal": "toddler proportions; soft brown curls; grey-green eyes; warm skin",
+      "wardrobe_proposal": "plain oatmeal tunic, blue wool vest",
+      "variants": [
+        "civilian",
+        "oblivion",
+        "older_epilogue"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "child_custom",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.riven",
+      "name": "Riven",
+      "canonical_age": null,
+      "role": "companion",
+      "proposed_height_m": 1.82,
+      "appearance_proposal": "athletic; cropped black hair; amber-brown eyes; medium skin",
+      "wardrobe_proposal": "steel, burgundy wool, sword belt",
+      "variants": [
+        "recruit",
+        "veteran",
+        "guild"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.aiden",
+      "name": "Aiden",
+      "canonical_age": null,
+      "role": "companion",
+      "proposed_height_m": 1.91,
+      "appearance_proposal": "heavy build; shaved head; dark eyes; deep brown skin",
+      "wardrobe_proposal": "layered iron, ochre cloth, shield",
+      "variants": [
+        "recruit",
+        "veteran",
+        "defender"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.selene",
+      "name": "Selene",
+      "canonical_age": null,
+      "role": "companion",
+      "proposed_height_m": 1.7,
+      "appearance_proposal": "slender; dark braid; hazel eyes; medium skin",
+      "wardrobe_proposal": "indigo wool, copper clasps, focus",
+      "variants": [
+        "recruit",
+        "veteran",
+        "independent"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.nyra",
+      "name": "Nyra",
+      "canonical_age": null,
+      "role": "companion",
+      "proposed_height_m": 1.68,
+      "appearance_proposal": "compact athletic; cropped auburn hair; green eyes; freckled skin",
+      "wardrobe_proposal": "matte charcoal leather, muted plum",
+      "variants": [
+        "recruit",
+        "veteran",
+        "independent"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.theron",
+      "name": "Theron",
+      "canonical_age": null,
+      "role": "companion",
+      "proposed_height_m": 1.88,
+      "appearance_proposal": "long-limbed; sandy hair; blue eyes; fair weathered skin",
+      "wardrobe_proposal": "olive cloth, segmented steel, spear harness",
+      "variants": [
+        "recruit",
+        "veteran",
+        "defender"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.iris",
+      "name": "Iris",
+      "canonical_age": null,
+      "role": "companion",
+      "proposed_height_m": 1.65,
+      "appearance_proposal": "rounded face; black curls; dark eyes; deep brown skin",
+      "wardrobe_proposal": "cream linen, teal sash, staff",
+      "variants": [
+        "recruit",
+        "veteran",
+        "dawn"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.aldren",
+      "name": "Aldren Vael",
+      "canonical_age": null,
+      "role": "founder",
+      "proposed_height_m": 1.83,
+      "appearance_proposal": "mature appearance; silver hair; grey eyes; pale skin",
+      "wardrobe_proposal": "midnight wool, bronze insignia",
+      "variants": [
+        "public",
+        "ancient_portrait",
+        "revealed"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.lucien",
+      "name": "Lucien Ashford",
+      "canonical_age": null,
+      "role": "founder",
+      "proposed_height_m": 1.9,
+      "appearance_proposal": "upright; dark silver temples; brown eyes; medium skin",
+      "wardrobe_proposal": "navy steel, ivory mantle",
+      "variants": [
+        "public",
+        "ancient_portrait",
+        "revealed"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.aurelion",
+      "name": "Aurelion",
+      "canonical_age": null,
+      "role": "deity",
+      "proposed_height_m": 2.4,
+      "appearance_proposal": "symmetrical humanlike face; pale gold eyes; ivory skin; silver hair",
+      "wardrobe_proposal": "ivory ceramic, gold lattice, luminous wings",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid_extended_wings",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.veyra",
+      "name": "Veyra",
+      "canonical_age": null,
+      "role": "deity",
+      "proposed_height_m": 2.2,
+      "appearance_proposal": "soft humanlike silhouette; bronze skin; dark green hair; amber eyes",
+      "wardrobe_proposal": "living silk, verdigris, branching wings",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid_extended_wings",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.morveth",
+      "name": "Morveth",
+      "canonical_age": null,
+      "role": "deity",
+      "proposed_height_m": 2.35,
+      "appearance_proposal": "gaunt humanlike silhouette; ash skin; black hair; grey eyes",
+      "wardrobe_proposal": "obsidian, smoked silver, dusk wings",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid_extended_wings",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.chronar",
+      "name": "Chronar",
+      "canonical_age": null,
+      "role": "deity",
+      "proposed_height_m": 2.3,
+      "appearance_proposal": "angular humanlike face; silver skin; pale eyes; white hair",
+      "wardrobe_proposal": "brushed brass, concentric rings, luminous wings",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid_extended_wings",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.ignivar",
+      "name": "Ignivar",
+      "canonical_age": null,
+      "role": "deity",
+      "proposed_height_m": 2.55,
+      "appearance_proposal": "massive humanlike build; copper skin; black hair; ember eyes",
+      "wardrobe_proposal": "blackened steel, oxidized copper, luminous wings",
+      "variants": [
+        "celestial",
+        "battle"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid_extended_wings",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.elyria",
+      "name": "Elyria",
+      "canonical_age": null,
+      "role": "deity",
+      "proposed_height_m": 2.18,
+      "appearance_proposal": "calm humanlike face; dark skin; silver braids; violet-grey eyes",
+      "wardrobe_proposal": "pearl fabric, blue glass, translucent wings",
+      "variants": [
+        "celestial"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid_extended_wings",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.nhalor",
+      "name": "Nhalor",
+      "canonical_age": null,
+      "role": "deity",
+      "proposed_height_m": 2.26,
+      "appearance_proposal": "asymmetric humanlike silhouette; tan skin; dark loose hair; blue eyes",
+      "wardrobe_proposal": "unbound linen, broken bronze rings, luminous wings",
+      "variants": [
+        "celestial"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid_extended_wings",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.edran",
+      "name": "Edran",
+      "canonical_age": null,
+      "role": "npc",
+      "proposed_height_m": 1.76,
+      "appearance_proposal": "weathered face; brown beard; brown eyes; tan skin",
+      "wardrobe_proposal": "patched travel wool, journal satchel",
+      "variants": [
+        "camp"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.vareth_child",
+      "name": "Unnamed Vareth survivor",
+      "canonical_age": null,
+      "role": "child",
+      "proposed_height_m": 1.2,
+      "appearance_proposal": "child proportions; dark hair; brown eyes; medium skin",
+      "wardrobe_proposal": "plain modest wool dress, travel cloak",
+      "variants": [
+        "survivor",
+        "oblivion"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "child_custom",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.founder_slot_3",
+      "name": null,
+      "canonical_age": null,
+      "role": "founder",
+      "proposed_height_m": null,
+      "appearance_proposal": "UNRESOLVED",
+      "wardrobe_proposal": "UNRESOLVED",
+      "variants": [
+        "pending"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.founder_slot_4",
+      "name": null,
+      "canonical_age": null,
+      "role": "founder",
+      "proposed_height_m": null,
+      "appearance_proposal": "UNRESOLVED",
+      "wardrobe_proposal": "UNRESOLVED",
+      "variants": [
+        "pending"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.founder_slot_5",
+      "name": null,
+      "canonical_age": null,
+      "role": "founder",
+      "proposed_height_m": null,
+      "appearance_proposal": "UNRESOLVED",
+      "wardrobe_proposal": "UNRESOLVED",
+      "variants": [
+        "pending"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.founder_slot_6",
+      "name": null,
+      "canonical_age": null,
+      "role": "founder",
+      "proposed_height_m": null,
+      "appearance_proposal": "UNRESOLVED",
+      "wardrobe_proposal": "UNRESOLVED",
+      "variants": [
+        "pending"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    },
+    {
+      "id": "char.founder_slot_7",
+      "name": null,
+      "canonical_age": null,
+      "role": "founder",
+      "proposed_height_m": null,
+      "appearance_proposal": "UNRESOLVED",
+      "wardrobe_proposal": "UNRESOLVED",
+      "variants": [
+        "pending"
+      ],
+      "status": "specified",
+      "rights": "Project original specification; all rights reserved; no external assets",
+      "rig": "humanoid",
+      "concept_image": null,
+      "mesh": null
+    }
+  ]
+}
