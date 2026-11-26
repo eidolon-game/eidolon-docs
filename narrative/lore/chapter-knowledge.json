@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceBlob": "1472f5be51fcfff4c7020d14cc70ab1723ac8104",
+  "chapters": [
+    {
+      "chapter": 1,
+      "summary": "Valdris is the known world; Guild teaches Abyss threat.",
+      "audience": "public_belief",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 2,
+      "summary": "Anomaly and Noah's contradictory presence; no explanation.",
+      "audience": "kael_private",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 3,
+      "summary": "Riven remembers Noah; veterans warn Kael.",
+      "audience": "restricted",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 4,
+      "summary": "Abyss built by Guild; containment; second wall and Giants.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 5,
+      "summary": "Giants yield monsters; capture witnessed.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 6,
+      "summary": "Edran names Discrepancy; diary is private evidence.",
+      "audience": "restricted",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 7,
+      "summary": "Other cities and Titans exist; Horizon Seal.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 8,
+      "summary": "Seven named cities and wider world.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 9,
+      "summary": "Titan yields Giants; siege and reconstruction.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 10,
+      "summary": "Vareth destroyed then erased; child missing.",
+      "audience": "kael_private",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 11,
+      "summary": "Titan falls through celestial fracture; official weather story.",
+      "audience": "restricted",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 12,
+      "summary": "Seven historical gods and Empyrea.",
+      "audience": "restricted",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 13,
+      "summary": "Seven founders alive; Aldren and Lucien identified.",
+      "audience": "restricted",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 14,
+      "summary": "Heart stolen; three-millennia war.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 15,
+      "summary": "Damaged Heart rewrites history; Eidolon resistance.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 16,
+      "summary": "Prior Valdris attack and Noah's actual origin.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 17,
+      "summary": "Three factions and conditional companion loyalties.",
+      "audience": "public_conflict",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 18,
+      "summary": "Nhalor explains divine divisions and energy fragmentation.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 19,
+      "summary": "Vareth child returns; displaced people and Oblivion.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 20,
+      "summary": "Enter Oblivion; erased lives persist outside current history.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 21,
+      "summary": "Alternate Veyr family; all versions authentic.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 22,
+      "summary": "Noah erased then found in Oblivion; separate events.",
+      "audience": "kael_private",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 23,
+      "summary": "Stairway and seven law themes; founders' keys.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 24,
+      "summary": "Origin precedes gods; Heart originally balances laws.",
+      "audience": "kael_revealed",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 25,
+      "summary": "Divine war; cities and allies have conditional outcomes.",
+      "audience": "public_conflict",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    },
+    {
+      "chapter": 26,
+      "summary": "Aurelion's offer and four possible endings; ending-specific truth.",
+      "audience": "branch_specific",
+      "classification": "internal",
+      "rule": "Only after the corresponding narrative event; chapter entry alone is insufficient."
+    }
+  ],
+  "gates": [
+    {
+      "ref": "reveal.noah_appears",
+      "chapter": 2,
+      "event": "noah_reveal",
+      "eventStatus": "observed_quest_id"
+    },
+    {
+      "ref": "reveal.abyss_containment",
+      "chapter": 4,
+      "event": "abyss_truth_disclosed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.monster_source",
+      "chapter": 5,
+      "event": "monster_capture_witnessed",
+      "eventStatus": "observed_quest_id"
+    },
+    {
+      "ref": "reveal.titan_cycle",
+      "chapter": 9,
+      "event": "titan_fragmentation_witnessed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.vareth_erased",
+      "chapter": 10,
+      "event": "vareth_erasure_witnessed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.divine_titans",
+      "chapter": 11,
+      "event": "divine_fracture_witnessed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.founders_immortal",
+      "chapter": 13,
+      "event": "founder_document_read",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.heart_theft",
+      "chapter": 14,
+      "event": "heart_history_disclosed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.eidolon_cause",
+      "chapter": 15,
+      "event": "eidolon_cause_disclosed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.noah_origin",
+      "chapter": 16,
+      "event": "noah_origin_disclosed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.energy_cycle",
+      "chapter": 18,
+      "event": "nhalor_explanation_complete",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.oblivion",
+      "chapter": 19,
+      "event": "vareth_child_testimony",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.oblivion_access",
+      "chapter": 20,
+      "event": "oblivion_entered",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.noah_erased",
+      "chapter": 22,
+      "event": "noah_absence_witnessed",
+      "eventStatus": "proposed_contract"
+    },
+    {
+      "ref": "reveal.origin_truth",
+      "chapter": 24,
+      "event": "elyria_explanation_complete",
+      "eventStatus": "proposed_contract"
+    }
+  ]
+}
