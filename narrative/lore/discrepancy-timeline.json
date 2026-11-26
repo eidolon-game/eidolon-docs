@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sourceBlob": "1472f5be51fcfff4c7020d14cc70ab1723ac8104",
+  "events": [
+    {
+      "id": "noah_history_rewritten",
+      "chapter": 2,
+      "disclosed": 16,
+      "kind": "world_mutation",
+      "state": "noah_present",
+      "certainty": "canon; exact commit timing proposed"
+    },
+    {
+      "id": "first_anomaly",
+      "chapter": 2,
+      "disclosed": 2,
+      "kind": "observation",
+      "state": "unchanged",
+      "certainty": "canon"
+    },
+    {
+      "id": "noah_reveal",
+      "chapter": 2,
+      "disclosed": 2,
+      "kind": "observation",
+      "state": "noah_present",
+      "certainty": "canon"
+    },
+    {
+      "id": "vareth_erased",
+      "chapter": 10,
+      "disclosed": 10,
+      "kind": "world_mutation",
+      "state": "vareth_absent",
+      "certainty": "canon"
+    },
+    {
+      "id": "vareth_child_returns",
+      "chapter": 19,
+      "disclosed": 19,
+      "kind": "observation",
+      "state": "vareth_absent",
+      "certainty": "canon; city not restored"
+    },
+    {
+      "id": "noah_erased",
+      "chapter": 22,
+      "disclosed": 22,
+      "kind": "world_mutation",
+      "state": "noah_absent",
+      "certainty": "canon"
+    },
+    {
+      "id": "noah_recovered",
+      "chapter": 22,
+      "disclosed": 22,
+      "kind": "observation",
+      "state": "noah_in_oblivion",
+      "certainty": "canon reunion; return staging unresolved"
+    }
+  ]
+}

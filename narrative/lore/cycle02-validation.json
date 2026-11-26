@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "method": "JavaScript readback of committed JSON via GitHub; predicate gate(record, chapter, events) = chapter >= record.chapter && (!record.event || events.includes(record.event))",
+  "sourceBlobs": [
+    {
+      "path": "registry-v2.json",
+      "blob": "22e5787d1898d3ebd7a8a14d0ca74401a56d9500"
+    },
+    {
+      "path": "cycle02-aliases.json",
+      "blob": "456d408b06af6a2d8c93b6a1abbd832868d391f3"
+    },
+    {
+      "path": "chapter-knowledge.json",
+      "blob": "e93a16a1b8ff35f1f5b3ffa5998178c30f838fe2"
+    },
+    {
+      "path": "first-descent-localization.json",
+      "blob": "0051d4018e3cad4704a9f576e87e0c08d23dc969"
+    },
+    {
+      "path": "discrepancy-timeline.json",
+      "blob": "bae1630f9c730205315ac09a520b9633b7d0264c"
+    }
+  ],
+  "checks": {
+    "registry73": true,
+    "aliasUnique": true,
+    "aliasReferences": true,
+    "chapterCoverage": true,
+    "gateReferences": true,
+    "localization": true,
+    "localizationUnique": true,
+    "noahBeforeChapter": true,
+    "noahBeforeEvent": true,
+    "noahAfterEvent": true,
+    "noahLaterMissingEvent": true,
+    "timelineOrder": true,
+    "timelineDisclosure": true,
+    "timelineUnique": true
+  },
+  "pass": 14,
+  "fail": 0,
+  "limitations": "No runtime gate enforcement, native validator or CI execution; semantic review and external event binding remain pending."
+}

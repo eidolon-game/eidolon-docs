@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "classification": "internal_spoilers",
+  "records": [
+    {
+      "namespace": "deity",
+      "id": "aurelion",
+      "earliestChapter": 12,
+      "detailChapter": 26,
+      "nameIt": "Ordine e creazione",
+      "internalSummary": "Treats divergent lives as errors; final offer requires Noah's loss."
+    },
+    {
+      "namespace": "deity",
+      "id": "veyra",
+      "earliestChapter": 12,
+      "detailChapter": 12,
+      "nameIt": "Vita e rinascita",
+      "internalSummary": "Allegiance and actual powers unresolved."
+    },
+    {
+      "namespace": "deity",
+      "id": "morveth",
+      "earliestChapter": 12,
+      "detailChapter": 12,
+      "nameIt": "Morte e oblio",
+      "internalSummary": "Do not equate historical domain with control of the displaced realm."
+    },
+    {
+      "namespace": "deity",
+      "id": "chronar",
+      "earliestChapter": 12,
+      "detailChapter": 12,
+      "nameIt": "Tempo e destino",
+      "internalSummary": "No confirmed time-travel mechanic."
+    },
+    {
+      "namespace": "deity",
+      "id": "ignivar",
+      "earliestChapter": 12,
+      "detailChapter": 12,
+      "nameIt": "Guerra e distruzione",
+      "internalSummary": "Allegiance unresolved; no confirmed role in specific attacks."
+    },
+    {
+      "namespace": "deity",
+      "id": "elyria",
+      "earliestChapter": 12,
+      "detailChapter": 24,
+      "nameIt": "Memoria e conoscenza",
+      "internalSummary": "Reveals Origin and Heart's purpose."
+    },
+    {
+      "namespace": "deity",
+      "id": "nhalor",
+      "earliestChapter": 12,
+      "detailChapter": 18,
+      "nameIt": "Libertà e volontà",
+      "internalSummary": "Explains divine disagreement and creature fragmentation."
+    },
+    {
+      "namespace": "artifact",
+      "id": "heart",
+      "earliestChapter": 14,
+      "detailChapter": 24,
+      "nameIt": "Cuore dell'Eternità",
+      "internalSummary": "Damaged reality rewriting instrument; original equilibrium function disclosed ch24."
+    },
+    {
+      "namespace": "artifact",
+      "id": "aegis_seal",
+      "earliestChapter": 1,
+      "detailChapter": 4,
+      "nameIt": "Sigillo dell'Egida",
+      "internalSummary": "Access beyond first wall after Abyss completion."
+    },
+    {
+      "namespace": "artifact",
+      "id": "horizon_seal",
+      "earliestChapter": 7,
+      "detailChapter": 7,
+      "nameIt": "Sigillo dell'Orizzonte",
+      "internalSummary": "Access beyond second wall after 100 Giants."
+    },
+    {
+      "namespace": "creature",
+      "id": "monster",
+      "earliestChapter": 1,
+      "detailChapter": 18,
+      "nameIt": "Mostro",
+      "internalSummary": "Captured for dungeon containment; true nature revealed ch18."
+    },
+    {
+      "namespace": "creature",
+      "id": "giant",
+      "earliestChapter": 4,
+      "detailChapter": 18,
+      "nameIt": "Gigante",
+      "internalSummary": "5–40 m; fragments into monsters on death, observed ch5."
+    },
+    {
+      "namespace": "creature",
+      "id": "titan",
+      "earliestChapter": 7,
+      "detailChapter": 18,
+      "nameIt": "Titano",
+      "internalSummary": "Hundreds of metres, ancient specimens over a kilometre; divine origin ch11."
+    },
+    {
+      "namespace": "creature",
+      "id": "abyss_guardian",
+      "earliestChapter": 4,
+      "detailChapter": 4,
+      "nameIt": "Custode dell'Abisso",
+      "internalSummary": "Ancient imprisoned creature; arena conceals externally closed door."
+    }
+  ]
+}
