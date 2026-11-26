@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "source_canon_blob": "1472f5be51fcfff4c7020d14cc70ab1723ac8104",
+  "status": "proposed_measurements_not_scans",
+  "units": "cm",
+  "characters": [
+    {
+      "id": "kael",
+      "canonical_age": 19,
+      "height": 179,
+      "head_height": 23.5,
+      "shoulder_width": 41,
+      "hip_joint_height": 92,
+      "rig_route": "adult_candidate",
+      "identity": "lean face, uneven dark brown hair, grey-green eyes, olive-neutral skin",
+      "wardrobe": "undyed linen shirt, brown leather recruit shell, charcoal trousers; no divine marks",
+      "views": {
+        "front": "neutral A pose; feet on ground; facial landmarks level",
+        "right": "same scale; no perspective; preserve nose/chin profile",
+        "back": "same scale; hair and garment seams continuous"
+      },
+      "expressions": [
+        "neutral",
+        "joy",
+        "grief",
+        "fear",
+        "anger",
+        "resolve"
+      ],
+      "metahuman": {
+        "status": "not_created",
+        "route": "adult_candidate",
+        "identity_asset": null,
+        "body_asset": null,
+        "required": [
+          "neutral identity fit",
+          "age-appropriate body dimensions",
+          "groom fit",
+          "facial deformation review",
+          "wardrobe clipping test"
+        ]
+      },
+      "first_descent_presence": "chapter 2 before descent and after return"
+    },
+    {
+      "id": "darius",
+      "canonical_age": 46,
+      "height": 184,
+      "head_height": 24.5,
+      "shoulder_width": 49,
+      "hip_joint_height": 96,
+      "rig_route": "adult_candidate",
+      "identity": "broad jaw, greying black hair, brown eyes, weathered skin",
+      "wardrobe": "coarse linen, forge apron, soot, closed boots",
+      "views": {
+        "front": "neutral A pose; feet on ground; facial landmarks level",
+        "right": "same scale; no perspective; preserve nose/chin profile",
+        "back": "same scale; hair and garment seams continuous"
+      },
+      "expressions": [
+        "neutral",
+        "joy",
+        "grief",
+        "fear",
+        "anger",
+        "resolve"
+      ],
+      "metahuman": {
+        "status": "not_created",
+        "route": "adult_candidate",
+        "identity_asset": null,
+        "body_asset": null,
+        "required": [
+          "neutral identity fit",
+          "age-appropriate body dimensions",
+          "groom fit",
+          "facial deformation review",
+          "wardrobe clipping test"
+        ]
+      },
+      "first_descent_presence": "chapter 2 before descent and after return"
+    },
+    {
+      "id": "elara",
+      "canonical_age": 43,
+      "height": 166,
+      "head_height": 22.5,
+      "shoulder_width": 37,
+      "hip_joint_height": 87,
+      "rig_route": "adult_candidate",
+      "identity": "soft angular face, chestnut braid, grey-green eyes, warm skin",
+      "wardrobe": "sage tunic, linen healer pouch, closed shoes",
+      "views": {
+        "front": "neutral A pose; feet on ground; facial landmarks level",
+        "right": "same scale; no perspective; preserve nose/chin profile",
+        "back": "same scale; hair and garment seams continuous"
+      },
+      "expressions": [
+        "neutral",
+        "joy",
+        "grief",
+        "fear",
+        "anger",
+        "resolve"
+      ],
+      "metahuman": {
+        "status": "not_created",
+        "route": "adult_candidate",
+        "identity_asset": null,
+        "body_asset": null,
+        "required": [
+          "neutral identity fit",
+          "age-appropriate body dimensions",
+          "groom fit",
+          "facial deformation review",
+          "wardrobe clipping test"
+        ]
+      },
+      "first_descent_presence": "chapter 2 before descent and after return"
+    },
+    {
+      "id": "lyra",
+      "canonical_age": 16,
+      "height": 163,
+      "head_height": 22,
+      "shoulder_width": 35,
+      "hip_joint_height": 84,
+      "rig_route": "custom_adolescent_review",
+      "identity": "adolescent face, chestnut ponytail, brown eyes, warm skin",
+      "wardrobe": "modest russet tunic over trousers, sturdy boots",
+      "views": {
+        "front": "neutral A pose; feet on ground; facial landmarks level",
+        "right": "same scale; no perspective; preserve nose/chin profile",
+        "back": "same scale; hair and garment seams continuous"
+      },
+      "expressions": [
+        "neutral",
+        "joy",
+        "grief",
+        "fear",
+        "anger",
+        "resolve"
+      ],
+      "metahuman": {
+        "status": "not_created",
+        "route": "custom_adolescent_review",
+        "identity_asset": null,
+        "body_asset": null,
+        "required": [
+          "neutral identity fit",
+          "age-appropriate body dimensions",
+          "groom fit",
+          "facial deformation review",
+          "wardrobe clipping test"
+        ]
+      },
+      "first_descent_presence": "chapter 2 before descent and after return"
+    },
+    {
+      "id": "noah",
+      "canonical_age": 3,
+      "height": 96,
+      "head_height": 19,
+      "shoulder_width": 23,
+      "hip_joint_height": 48,
+      "rig_route": "custom_child",
+      "identity": "round toddler face, soft brown curls, grey-green eyes, warm skin",
+      "wardrobe": "oatmeal tunic, blue vest, trousers, soft shoes; no glow",
+      "views": {
+        "front": "neutral A pose; feet on ground; facial landmarks level",
+        "right": "same scale; no perspective; preserve nose/chin profile",
+        "back": "same scale; hair and garment seams continuous"
+      },
+      "expressions": [
+        "neutral",
+        "joy",
+        "grief",
+        "fear",
+        "anger",
+        "resolve"
+      ],
+      "metahuman": {
+        "status": "not_created",
+        "route": "custom_child",
+        "identity_asset": null,
+        "body_asset": null,
+        "required": [
+          "neutral identity fit",
+          "age-appropriate body dimensions",
+          "groom fit",
+          "facial deformation review",
+          "wardrobe clipping test"
+        ]
+      },
+      "first_descent_presence": "after overnight dormitory return only"
+    }
+  ]
+}
