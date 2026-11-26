@@ -1,0 +1,440 @@
+{
+  "schema_version": 1,
+  "namespace": "audio",
+  "records": [
+    {
+      "id": "music_main",
+      "legacy_id": "music.main",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_kael",
+      "legacy_id": "music.kael",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_noah",
+      "legacy_id": "music.noah",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_valdris",
+      "legacy_id": "music.city.valdris",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_ignareth",
+      "legacy_id": "music.city.ignareth",
+      "min_chapter": 8,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_thalassar",
+      "legacy_id": "music.city.thalassar",
+      "min_chapter": 8,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_nordheim",
+      "legacy_id": "music.city.nordheim",
+      "min_chapter": 8,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_solkar",
+      "legacy_id": "music.city.solkar",
+      "min_chapter": 8,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_elyndor",
+      "legacy_id": "music.city.elyndor",
+      "min_chapter": 8,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_aureth",
+      "legacy_id": "music.city.aureth",
+      "min_chapter": 8,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_city_vareth",
+      "legacy_id": "music.city.vareth",
+      "min_chapter": 10,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_catacombs",
+      "legacy_id": "music.abyss.catacombs",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_buried_forest",
+      "legacy_id": "music.abyss.buried_forest",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_lost_mines",
+      "legacy_id": "music.abyss.lost_mines",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_submerged_kingdom",
+      "legacy_id": "music.abyss.submerged_kingdom",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_crystal_lands",
+      "legacy_id": "music.abyss.crystal_lands",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_necropolis",
+      "legacy_id": "music.abyss.necropolis",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_infernal_forges",
+      "legacy_id": "music.abyss.infernal_forges",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_inverted_citadel",
+      "legacy_id": "music.abyss.inverted_citadel",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_silent_sanctuary",
+      "legacy_id": "music.abyss.silent_sanctuary",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_abyss_abyss_heart",
+      "legacy_id": "music.abyss.abyss_heart",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_stair_time",
+      "legacy_id": "music.stair.time",
+      "min_chapter": 23,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_stair_memory",
+      "legacy_id": "music.stair.memory",
+      "min_chapter": 23,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_stair_life",
+      "legacy_id": "music.stair.life",
+      "min_chapter": 23,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_stair_death",
+      "legacy_id": "music.stair.death",
+      "min_chapter": 23,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_stair_matter",
+      "legacy_id": "music.stair.matter",
+      "min_chapter": 23,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_stair_will",
+      "legacy_id": "music.stair.will",
+      "min_chapter": 23,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_stair_destiny",
+      "legacy_id": "music.stair.destiny",
+      "min_chapter": 23,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_discrepancy",
+      "legacy_id": "music.discrepancy",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_oblivion",
+      "legacy_id": "music.oblivion",
+      "min_chapter": 20,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_empyrea",
+      "legacy_id": "music.empyrea",
+      "min_chapter": 24,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_origin",
+      "legacy_id": "music.origin",
+      "min_chapter": 24,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_guardian",
+      "legacy_id": "music.guardian",
+      "min_chapter": 4,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_giant",
+      "legacy_id": "music.giant",
+      "min_chapter": 5,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_titan",
+      "legacy_id": "music.titan",
+      "min_chapter": 9,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_companion",
+      "legacy_id": "music.companion",
+      "min_chapter": 17,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_aurelion",
+      "legacy_id": "music.aurelion",
+      "min_chapter": 26,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_ending_1",
+      "legacy_id": "music.ending.1",
+      "min_chapter": 26,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_ending_2",
+      "legacy_id": "music.ending.2",
+      "min_chapter": 26,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_ending_3",
+      "legacy_id": "music.ending.3",
+      "min_chapter": 26,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "music_ending_4",
+      "legacy_id": "music.ending.4",
+      "min_chapter": 26,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_ui_confirm",
+      "legacy_id": "sfx.ui.confirm",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_ui_error",
+      "legacy_id": "sfx.ui.error",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_combat_parry",
+      "legacy_id": "sfx.combat.parry",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_combat_hit",
+      "legacy_id": "sfx.combat.hit",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_combat_dodge",
+      "legacy_id": "sfx.combat.dodge",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_weapon_sword",
+      "legacy_id": "sfx.weapon.sword",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_magic_cast",
+      "legacy_id": "sfx.magic.cast",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_footstep_stone",
+      "legacy_id": "sfx.footstep.stone",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_footstep_wood",
+      "legacy_id": "sfx.footstep.wood",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_footstep_snow",
+      "legacy_id": "sfx.footstep.snow",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_footstep_mud",
+      "legacy_id": "sfx.footstep.mud",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_weather_rain",
+      "legacy_id": "sfx.weather.rain",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_weather_wind",
+      "legacy_id": "sfx.weather.wind",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_amb_forge",
+      "legacy_id": "sfx.amb.forge",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_amb_market",
+      "legacy_id": "sfx.amb.market",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_amb_forest",
+      "legacy_id": "sfx.amb.forest",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_amb_coast",
+      "legacy_id": "sfx.amb.coast",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_creature_giant",
+      "legacy_id": "sfx.creature.giant",
+      "min_chapter": 4,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_creature_titan",
+      "legacy_id": "sfx.creature.titan",
+      "min_chapter": 7,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_discrepancy_pulse",
+      "legacy_id": "sfx.discrepancy.pulse",
+      "min_chapter": 2,
+      "status": "specified",
+      "asset_ref": null
+    },
+    {
+      "id": "sfx_dialogue_voice",
+      "legacy_id": "sfx.dialogue.voice",
+      "min_chapter": 1,
+      "status": "specified",
+      "asset_ref": null
+    }
+  ]
+}
