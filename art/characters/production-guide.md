@@ -1,0 +1,11 @@
+# Character production guide
+All rights reserved. Original design proposals; no third-party reference redistribution.
+## Reference sheet acceptance
+For each resolved catalog ID: neutral front, right profile and rear orthographic views at identical scale; portrait with neutral lens, full-body A-pose, six expressions (neutral, joy, grief, fear, anger, resolve), hand/foot close-ups, material swatches under neutral lighting. No perspective distortion in turnaround. Keep scars, seams, eye color and facial landmarks consistent. Children use age-appropriate clothing and anatomy, not scaled adults.
+## Pipeline
+Use centimeters in UE, meters in Blender; ground at Z=0. Blender +Y forward, export FBX -Y forward/Z up, verify import orientation on a reference mannequin before batch conversion. Adult MetaHuman candidates require identity fit, custom garments and validated face/body rig. Child and deity rigs require custom topology and animation review. Never assume MetaHuman redistribution rights; record applicable terms before committing assets.
+Use PBR base color (sRGB), normal and packed AO/roughness/metallic (linear); no baked lighting. Skin subsurface, eye wetness, groom cards fallback. Proposed hero texture budget 4K head/body, NPC 2K; measure VRAM and frame time before approval. Skeletal LODs with preserved face and joint deformation; no blanket Nanite requirement.
+## Narrative gates
+Noah is ordinary, never glowing; absence is a world-state operation, not a different face. Kael civilian appearance has no divine markers. Aldren and Lucien retain identical facial identity in ancient portraits. Alternative Elara and Lyra preserve identity; Darius is absent in chapter 21. Noah older epilogue needs approved age before production. Companion faction changes affect wardrobe only, not persistent identity. Deity wings are proposal based on chapter 11 humanoids; individual battle forms require Creature/Boss Art review.
+## Integration
+Stable art IDs are local proposals, not runtime NPC keys. Narrative/AI must map identities; Save owns presence; Equipment owns attachment/socket contract; Animation owns skeleton/retargeting; Asset Pipeline owns import and licensing. No runtime paths published before assets exist.
