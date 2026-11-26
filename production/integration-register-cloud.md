@@ -119,3 +119,8 @@ Il tip studio non contiene workflow.
 Ultimo run visibile: failed: Run 6 of Department 18 calibration reproduction. ci: department 19 build engineering foundation. [Run](https://github.com/eidolon-game/eidolon-tools/actions/runs/45864189224)
 Elenco pubblico consultato: 24 run visibili nella prima pagina. [Actions](https://github.com/eidolon-game/eidolon-tools/actions)
 La cronologia pubblica include il workflow Build tools validation dal ramo di build engineering.
+
+## Decisioni dopo la revisione
+
+- Game #24 resta sospesa. I due test Python e le due suite standalone C++17 passano. Le suite C++ usano il commit storico `4697eef`. Il gate Win64 si attiva su ogni PR e sui push di integrazione, ma il runner `windows-2022` configurato non dispone di UE 5.6. Serve un runner isolato e autorizzato per eseguire il gate esplicito. La build, il pacchetto e il playtest rimangono da verificare.
+- Game #27 ha una correzione locale candidata nel GameMode di base. Il riavvio dopo un caricamento fallito conserva lo stato della campagna in memoria. Il diff di Game #12 introduce componenti Save separati e non modifica questo GameMode. I tre scenari di regressione sono in `docs/first-playtest.md` del gioco. La verifica in UE resta pendente.
