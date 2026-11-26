@@ -11,3 +11,5 @@
 |R08|AAA scope exceeds resources|High|00: milestone evidence and vertical slice before scale|
 |R09|Console access unavailable|High|19: authorized platform tools/certification only|
 |R10|Save corruption or duplicate rewards|High|06/08/20: transactional state, recovery tests|
+
+Cycle 02: Blender download risk mitigated for calibration SHA only; production batch and import remain unverified. R01 remains critical. New critical risks: failed spawn bypass (#25), checkpoint loss (#27); high: reach mismatch (#26), dialogue bypass (#28). Owners 01/02/06/08/17; independent QA 20.
