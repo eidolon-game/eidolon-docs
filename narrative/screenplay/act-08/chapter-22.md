@@ -19,3 +19,13 @@ Attraversare versioni della città seguendo le memorie; nessuna prova di combatt
 
 Completion: Disappearance persisted; reunion witnessed; Noah remains in Oblivion until ending resolution, safe placement needs Quest/Save review.
 Dependencies: Quest maps validated events; Save persists state and diary; Cinematics stages scripted reveals; Audio records dialogue and environment cues. Detailed encounters, branching dialogue and localization review pending.
+
+## Cycle 02 production insert
+
+## ch_22_sc_003 — Soglia della casa deserta, dopo il ricongiungimento
+Noah stringe la mano di Kael. Il giocatore non deve abbandonarlo in pericolo per sbloccare il capitolo 23.
+- ch_22_sc_003_dl_001 — Noah: «Non voglio stare al buio.»
+- ch_22_sc_003_dl_002 — Kael: «Resto con te finché non ti senti meglio.»
+- ch_22_sc_003_dl_003 — Noah: «Mi racconti una storia?»
+- ch_22_sc_003_dl_004 — Kael: «Quella di quando mi hai prestato la spada.»
+Dissolvenza sul racconto, non su un trasferimento di realtà. Safe staging and departure require Save/Quest agreement; do not infer a return to Valdris or invent a guardian NPC. Reunion completion is distinct from physical relocation. No compulsory timed separation.
