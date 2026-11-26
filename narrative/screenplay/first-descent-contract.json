@@ -1,0 +1,817 @@
+{
+  "schema_version": 1,
+  "status": "proposed_for_owner_review",
+  "canon_sha": "1472f5be51fcfff4c7020d14cc70ab1723ac8104",
+  "chapter_order": [
+    {
+      "chapter": 1,
+      "scenes": [
+        "ch_01_sc_001",
+        "ch_01_sc_002",
+        "ch_01_sc_004",
+        "ch_01_sc_003"
+      ]
+    },
+    {
+      "chapter": 2,
+      "scenes": [
+        "ch_02_sc_001",
+        "ch_02_sc_002",
+        "ch_02_sc_005",
+        "ch_02_sc_003",
+        "ch_02_sc_006",
+        "ch_02_sc_004",
+        "ch_02_sc_007"
+      ]
+    },
+    {
+      "chapter": 3,
+      "scenes": [
+        "ch_03_sc_005",
+        "ch_03_sc_001",
+        "ch_03_sc_006",
+        "ch_03_sc_002",
+        "ch_03_sc_007",
+        "ch_03_sc_003",
+        "ch_03_sc_008",
+        "ch_03_sc_004"
+      ]
+    }
+  ],
+  "quest_events": [
+    {
+      "quest": "mq_01",
+      "event": "meet_family",
+      "scene": "ch_01_sc_004",
+      "gate": "three distinct greetings acknowledged"
+    },
+    {
+      "quest": "mq_02",
+      "event": "guild_register",
+      "scene": "ch_02_sc_001",
+      "gate": "registration committed"
+    },
+    {
+      "quest": "mq_02",
+      "event": "abyss_floor_1",
+      "scene": "ch_02_sc_002",
+      "gate": "floor entered"
+    },
+    {
+      "quest": "mq_02",
+      "event": "tutorial_monster_defeated",
+      "scene": "ch_02_sc_002",
+      "gate": "combat authority confirms target defeat"
+    },
+    {
+      "quest": "mq_02",
+      "event": "first_anomaly",
+      "scene": "ch_02_sc_002",
+      "gate": "campaign-authorized anomaly completion"
+    },
+    {
+      "quest": "mq_02",
+      "event": "surface_return",
+      "scene": "ch_02_sc_005",
+      "gate": "validated exit"
+    },
+    {
+      "quest": "mq_02",
+      "event": "dormitory_night",
+      "scene": "ch_02_sc_006",
+      "gate": "confirmed rest committed"
+    },
+    {
+      "quest": "mq_02",
+      "event": "noah_reveal",
+      "scene": "ch_02_sc_007",
+      "gate": "post-change household committed, three distinct evidence inspections and acknowledgement"
+    },
+    {
+      "quest": "mq_03",
+      "event": "riven_conversation",
+      "scene": "ch_03_sc_006",
+      "gate": "either branch completed"
+    },
+    {
+      "quest": "mq_03",
+      "event": "companion_formation",
+      "scene": "ch_03_sc_007",
+      "gate": "staged introduction acknowledgement; owner review"
+    }
+  ],
+  "storyboards": [
+    {
+      "id": "ch_01_sb_001",
+      "scene": "ch_01_sc_001",
+      "audio_ids": [
+        "music_city_valdris",
+        "sfx_amb_forge"
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_01_sb_002",
+      "scene": "ch_01_sc_002",
+      "audio_ids": [
+        "sfx_amb_forge"
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sb_001",
+      "scene": "ch_02_sc_001",
+      "audio_ids": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sb_002",
+      "scene": "ch_02_sc_002",
+      "audio_ids": [
+        "music_abyss_catacombs",
+        "sfx_discrepancy_pulse"
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sb_003",
+      "scene": "ch_02_sc_006",
+      "audio_ids": [
+        "sfx_weather_rain"
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sb_004",
+      "scene": "ch_02_sc_004",
+      "audio_ids": [
+        "music_noah"
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sb_005",
+      "scene": "ch_02_sc_007",
+      "audio_ids": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sb_001",
+      "scene": "ch_03_sc_006",
+      "audio_ids": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sb_002",
+      "scene": "ch_03_sc_008",
+      "audio_ids": [
+        "music_noah"
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sb_003",
+      "scene": "ch_03_sc_004",
+      "audio_ids": [],
+      "asset_ref": null
+    }
+  ],
+  "dialogue": [
+    {
+      "id": "ch_01_sc_001_dl_001",
+      "speaker": "Venditore",
+      "it": "Pane caldo! Prima del cambio della guardia!",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_001_dl_002",
+      "speaker": "Guardia",
+      "it": "Il passaggio è riservato ai portatori del Sigillo.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_001_dl_003",
+      "speaker": "Darius",
+      "it": "Non stringere troppo. Il ferro ti dice quando è pronto.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_001_dl_004",
+      "speaker": "Kael",
+      "it": "Oggi vorrei che fosse pronto anche il suo proprietario.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_002_dl_001",
+      "speaker": "Lyra",
+      "it": "Diciannove anni e ancora non sai difendere la colazione.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_002_dl_002",
+      "speaker": "Kael",
+      "it": "Aspetta che mi diano una spada.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_002_dl_003",
+      "speaker": "Elara",
+      "it": "Una spada non serve a riportarti a casa. Il giudizio sì.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_002_dl_004",
+      "speaker": "Darius",
+      "it": "Non devi dimostrare niente a noi.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_002_dl_005",
+      "speaker": "Kael",
+      "it": "Lo so. Ma un giorno non dovrai più lavorare fino a notte.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_003_dl_001",
+      "speaker": "Riven",
+      "it": "Finalmente. Pensavo di dover scendere da solo.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_003_dl_002",
+      "speaker": "Aiden",
+      "it": "Prima devi imparare a non farti colpire.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_003_dl_003",
+      "speaker": "Selene",
+      "it": "Secondo il bando, prima dobbiamo imparare a compilare un modulo.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_003_dl_004",
+      "speaker": "Kael",
+      "it": "Allora cominciamo dalla parte più pericolosa.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_001",
+      "speaker": "Darius",
+      "it": "Quando impugni una lama, ricordati che puoi anche abbassarla.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_002",
+      "speaker": "Kael",
+      "it": "Me lo ricorderò.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_003",
+      "speaker": "Elara",
+      "it": "Hai mangiato abbastanza?",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_004",
+      "speaker": "Kael",
+      "it": "Mamma, vado alla Gilda, non in guerra.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_005",
+      "speaker": "Elara",
+      "it": "Allora torna a raccontarmi com'è andata.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_006",
+      "speaker": "Lyra",
+      "it": "Se diventi famoso, non dire che ti battevo con la spada di legno.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_007",
+      "speaker": "Kael",
+      "it": "Dirò che eri la mia maestra.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_004_dl_008",
+      "speaker": "Kael",
+      "it": "Quante volte ti ho visto riparare questo manico.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_003_dl_005",
+      "speaker": "Araldo",
+      "it": "L'Egida veglia. L'Abisso non deve traboccare.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_003_dl_006",
+      "speaker": "Riven",
+      "it": "Ci vediamo domani. La prima prova tocca a te.",
+      "en": null
+    },
+    {
+      "id": "ch_01_sc_003_dl_007",
+      "speaker": "Kael",
+      "it": "Domani, allora.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_001_dl_001",
+      "speaker": "Funzionario",
+      "it": "Nome, età, residenza.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_001_dl_002",
+      "speaker": "Kael",
+      "it": "Kael Veyr. Diciannove. Quartiere delle fucine.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_001_dl_003",
+      "speaker": "Funzionario",
+      "it": "Rango F. Primo livello. Torna vivo e consegna il rapporto.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_001_dl_004",
+      "speaker": "Kael",
+      "it": "Tutto qui?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_001_dl_005",
+      "speaker": "Funzionario",
+      "it": "Per chi torna, sì.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_002_dl_001",
+      "speaker": "Kael",
+      "it": "Che... cosa?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_002_dl_002",
+      "speaker": "Kael",
+      "it": "Devo aver trattenuto il respiro.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_003_dl_001",
+      "speaker": "Sorvegliante",
+      "it": "Le reclute dormono qui la prima notte. Domani potrai tornare dai tuoi.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_003_dl_002",
+      "speaker": "Kael",
+      "it": "Non credo che riuscirò a dormire.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_001",
+      "speaker": "Noah",
+      "it": "Fratellone!",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_002",
+      "speaker": "Kael",
+      "it": "E tu chi sei?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_003",
+      "speaker": "Elara",
+      "it": "Ti ha aspettato tutta la notte. Noah, lascialo entrare.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_004",
+      "speaker": "Kael",
+      "it": "Mamma. Chi è Noah?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_005",
+      "speaker": "Lyra",
+      "it": "Spiritoso. Adesso gli hai fatto fare quella faccia.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_006",
+      "speaker": "Darius",
+      "it": "Kael, è tuo fratello. Ti senti bene?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_007",
+      "speaker": "Noah",
+      "it": "Hai male?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_008",
+      "speaker": "Kael",
+      "it": "Ieri... non c'erano.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_004_dl_009",
+      "speaker": "Elara",
+      "it": "Siediti. Ti porto dell'acqua.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_005_dl_001",
+      "speaker": "Funzionario",
+      "it": "Sei tornato. Hai incontrato difficoltà?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_005_dl_002",
+      "speaker": "Kael",
+      "it": "Mi ha fatto male la testa. Solo per un momento.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_005_dl_003",
+      "speaker": "Funzionario",
+      "it": "Riposa. Il dormitorio è lungo il corridoio.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_005_dl_004",
+      "speaker": "Kael",
+      "it": "Posso avvisare casa?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_005_dl_005",
+      "speaker": "Funzionario",
+      "it": "Domattina potrai andare di persona.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_006_dl_001",
+      "speaker": "Recluta",
+      "it": "Prima discesa?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_006_dl_002",
+      "speaker": "Kael",
+      "it": "Si vede così tanto?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_006_dl_003",
+      "speaker": "Recluta",
+      "it": "Solo perché tieni ancora gli stivali.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_006_dl_004",
+      "speaker": "Kael",
+      "it": "Giusto.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_006_dl_005",
+      "speaker": "Kael",
+      "it": "Domani racconterò tutto a Lyra.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_001",
+      "speaker": "Kael",
+      "it": "Questi disegni sono tutti suoi?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_002",
+      "speaker": "Lyra",
+      "it": "Sì. Quello con la spada sei tu.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_003",
+      "speaker": "Kael",
+      "it": "E questi vestiti?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_004",
+      "speaker": "Elara",
+      "it": "Alcuni erano tuoi, quando eri piccolo.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_005",
+      "speaker": "Kael",
+      "it": "Il registro dice che è nato tre anni fa.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_006",
+      "speaker": "Darius",
+      "it": "Certo. Vuoi che venga con te dal guaritore?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_007",
+      "speaker": "Noah",
+      "it": "Sei arrabbiato?",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_008",
+      "speaker": "Kael",
+      "it": "No. Non con te.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_009",
+      "speaker": "Kael",
+      "it": "Scusami. Sono stanco.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_010",
+      "speaker": "Kael",
+      "it": "Ho bisogno di sedermi un momento.",
+      "en": null
+    },
+    {
+      "id": "ch_02_sc_007_dl_011",
+      "speaker": "Elara",
+      "it": "Resta qui quanto vuoi.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_001_dl_001",
+      "speaker": "Kael",
+      "it": "Dimmi una cosa. Ti ricordi quando è nato Noah?",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_001_dl_002",
+      "speaker": "Riven",
+      "it": "Certo. Tuo padre mi fece chiudere la fucina. Tu correvi per tutta la strada.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_001_dl_003",
+      "speaker": "Kael",
+      "it": "Io non ricordo niente di tutto questo.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_001_dl_004",
+      "speaker": "Riven",
+      "it": "Hai preso un colpo ieri? Non devi scendere se stai male.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_001_dl_005",
+      "speaker": "Kael",
+      "it": "Ricordo tutto il resto.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_001_dl_006",
+      "speaker": "Riven",
+      "it": "Allora torniamo insieme. Non devi convincermi di niente.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_002_dl_001",
+      "speaker": "Nyra",
+      "it": "Se fate ancora rumore, arriveranno prima di voi.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_002_dl_002",
+      "speaker": "Theron",
+      "it": "Io tengo il passaggio. Voi portate fuori i feriti.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_002_dl_003",
+      "speaker": "Iris",
+      "it": "Non muoverti. La ferita si riapre.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_002_dl_004",
+      "speaker": "Selene",
+      "it": "Potremmo coprirci a vicenda, invece di incontrarci sempre nei guai.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_002_dl_005",
+      "speaker": "Aiden",
+      "it": "A me va bene. Basta che nessuno resti indietro.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_003_dl_001",
+      "speaker": "Noah",
+      "it": "È una spada. Come la tua.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_003_dl_002",
+      "speaker": "Kael",
+      "it": "La mia non è così bella.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_003_dl_003",
+      "speaker": "Noah",
+      "it": "Allora te la presto.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_003_dl_004",
+      "speaker": "Kael",
+      "it": "Tienila tu. Mi servirà quando torno.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_003_dl_005",
+      "speaker": "Lyra",
+      "it": "Oggi ti ha aspettato alla finestra.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_003_dl_006",
+      "speaker": "Kael",
+      "it": "Domani torno prima.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_004_dl_001",
+      "speaker": "Kael",
+      "it": "Vi è mai capitato di ricordare una casa diversa?",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_004_dl_002",
+      "speaker": "Veterano",
+      "it": "Non importa quando una persona è entrata nella tua vita. Importa soltanto che adesso ne faccia parte.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_004_dl_003",
+      "speaker": "Secondo veterano",
+      "it": "Qualunque cosa accada, non parlarne con il Maestro della Gilda.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_004_dl_004",
+      "speaker": "Kael",
+      "it": "Perché?",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_005_dl_001",
+      "speaker": "Noah",
+      "it": "Vai via ancora?",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_005_dl_002",
+      "speaker": "Kael",
+      "it": "Solo per un po'.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_005_dl_003",
+      "speaker": "Noah",
+      "it": "Ti aspetto qui.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_005_dl_004",
+      "speaker": "Kael",
+      "it": "Va bene.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_006_dl_001",
+      "speaker": "Kael",
+      "it": "Ricordo la tavola. Eravamo in quattro.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_006_dl_002",
+      "speaker": "Riven",
+      "it": "Non posso ricordare quello che ricordi tu. Ma posso ascoltarti.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_006_dl_003",
+      "speaker": "Kael",
+      "it": "Se mi succede ancora, dimmelo.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_006_dl_004",
+      "speaker": "Riven",
+      "it": "Promesso.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_001",
+      "speaker": "Kael",
+      "it": "Aiden, ci copri le spalle?",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_002",
+      "speaker": "Aiden",
+      "it": "Finché mi lasci spazio per lo scudo.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_003",
+      "speaker": "Kael",
+      "it": "Selene, ci aiuti a leggere i segni?",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_004",
+      "speaker": "Selene",
+      "it": "Se prima mi lasci il tempo di copiarli.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_005",
+      "speaker": "Nyra",
+      "it": "Non prometto di seguire ordini stupidi.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_006",
+      "speaker": "Kael",
+      "it": "Nemmeno io.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_007",
+      "speaker": "Theron",
+      "it": "Se qualcuno cade, ci fermiamo.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_007_dl_008",
+      "speaker": "Iris",
+      "it": "E se qualcuno ha paura, non lo lasciamo solo.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_008_dl_001",
+      "speaker": "Noah",
+      "it": "Adesso non cade più!",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_008_dl_002",
+      "speaker": "Kael",
+      "it": "Tienila lontana dai piedi della mamma.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_008_dl_003",
+      "speaker": "Noah",
+      "it": "È per difenderti!",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_008_dl_004",
+      "speaker": "Kael",
+      "it": "Allora sono al sicuro.",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_008_dl_005",
+      "speaker": "Kael",
+      "it": "La finiamo quando torno, va bene?",
+      "en": null
+    },
+    {
+      "id": "ch_03_sc_008_dl_006",
+      "speaker": "Noah",
+      "it": "Va bene.",
+      "en": null
+    }
+  ]
+}
