@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "translationStatus": "draft_review_required",
+  "records": [
+    {
+      "ref": "character.kael",
+      "chapter": 1,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Kael Veyr",
+        "en": "Kael Veyr"
+      },
+      "description": {
+        "it": "Diciannove anni, aspirante avventuriero.",
+        "en": "Nineteen, an aspiring adventurer."
+      }
+    },
+    {
+      "ref": "character.darius",
+      "chapter": 1,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Darius Veyr",
+        "en": "Darius Veyr"
+      },
+      "description": {
+        "it": "Fabbro e padre di Kael.",
+        "en": "Smith and Kael's father."
+      }
+    },
+    {
+      "ref": "character.elara",
+      "chapter": 1,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Elara Veyr",
+        "en": "Elara Veyr"
+      },
+      "description": {
+        "it": "Guaritrice e madre di Kael.",
+        "en": "Healer and Kael's mother."
+      }
+    },
+    {
+      "ref": "character.lyra",
+      "chapter": 1,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Lyra Veyr",
+        "en": "Lyra Veyr"
+      },
+      "description": {
+        "it": "Sorella minore di Kael, sedici anni.",
+        "en": "Kael's younger sister, sixteen."
+      }
+    },
+    {
+      "ref": "character.noah",
+      "chapter": 2,
+      "event": "noah_reveal",
+      "status": "canon",
+      "name": {
+        "it": "Noah Veyr",
+        "en": "Noah Veyr"
+      },
+      "description": {
+        "it": "Un bambino di tre anni che la famiglia riconosce come fratello di Kael.",
+        "en": "A three-year-old boy whom the family recognizes as Kael's brother."
+      }
+    },
+    {
+      "ref": "city.valdris",
+      "chapter": 1,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Valdris",
+        "en": "Valdris"
+      },
+      "description": {
+        "it": "Città fortificata, centro agricolo e di addestramento.",
+        "en": "Fortified city, farming and training centre."
+      }
+    },
+    {
+      "ref": "faction.aegis",
+      "chapter": 1,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Gilda dell'Egida",
+        "en": "Aegis Guild"
+      },
+      "description": {
+        "it": "Amministra la sicurezza, le risorse e l'accesso all'Abisso.",
+        "en": "Administers security, resources and access to the Abyss."
+      }
+    },
+    {
+      "ref": "dungeon.abyss",
+      "chapter": 1,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Abisso",
+        "en": "Abyss"
+      },
+      "description": {
+        "it": "Struttura sotterranea al centro di Valdris.",
+        "en": "Underground structure at the centre of Valdris."
+      }
+    },
+    {
+      "ref": "creature.monster",
+      "chapter": 2,
+      "event": "tutorial_monster_defeated",
+      "status": "canon",
+      "name": {
+        "it": "Mostro dell'Abisso",
+        "en": "Abyss monster"
+      },
+      "description": {
+        "it": "Creatura ostile incontrata durante la prima discesa.",
+        "en": "Hostile creature encountered during the first descent."
+      }
+    },
+    {
+      "ref": "character.riven",
+      "chapter": 3,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Riven",
+        "en": "Riven"
+      },
+      "description": {
+        "it": "Amico d'infanzia di Kael, spadaccino.",
+        "en": "Kael's childhood friend, a swordsman."
+      }
+    },
+    {
+      "ref": "character.aiden",
+      "chapter": 3,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Aiden",
+        "en": "Aiden"
+      },
+      "description": {
+        "it": "Amico d'infanzia, guardiano.",
+        "en": "Childhood friend, a guardian."
+      }
+    },
+    {
+      "ref": "character.selene",
+      "chapter": 3,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Selene",
+        "en": "Selene"
+      },
+      "description": {
+        "it": "Amica d'infanzia, maga.",
+        "en": "Childhood friend, a mage."
+      }
+    },
+    {
+      "ref": "character.aldren",
+      "chapter": 4,
+      "event": null,
+      "status": "canon",
+      "name": {
+        "it": "Aldren Vael",
+        "en": "Aldren Vael"
+      },
+      "description": {
+        "it": "Maestro della Gilda di Valdris.",
+        "en": "Master of the Valdris Guild."
+      }
+    }
+  ]
+}
