@@ -1,0 +1,9 @@
+# Asset Pipeline handoff
+Status: initial source implementation; generated artifacts, visual approval and UE import not yet confirmed.
+Tools branch feature/asset-pipeline on develop. Registry is proposed central source; stable IDs must map to Character, Creature, Equipment and Environment catalogs without renaming their canonical IDs. Calibration asset is non-narrative and provisional. No shared game files modified. All rights reserved; original procedural geometry only. External assets require explicit provenance and redistribution clearance.
+## Contract
+Blender metric units (1 unit = 1 m), Z up, applied scale, ground pivot for static architecture; Unreal conversion to centimeters must be verified on import. GLB primary interchange, FBX only for tested skeletal workflows. SM_/SK_/M_/T_ naming proposed. Material channels: base color sRGB, normal/roughness/metallic/AO linear; normal convention verified per importer. Collision proxy, LOD/Nanite selection, sockets, rig and animation are separate evidence gates; calibration does not satisfy them. Registry checksum remains null until artifact exists; report records actual SHA256. No production-ready claim until visual review, target budgets, UE import, collision and platform tests pass.
+## CI
+Official Blender 4.5.0 Linux archive, published checksum verification, hosted runner only. Workflow generates GLB, blend, preview and report, reimports GLB, checks UV/dimensions and verifies artifact integrity. Execution pending. CI owner to review workflow and pin action SHAs and approved Blender patch before production.
+## Remaining
+Verify CI logs, download artifact, inspect preview, expand generators and registry validation, add texture baking, skeletal round-trip, collisions and UE import automation. Director ownership contract not confirmed; integration with other departments pending. No main writes or merges.
