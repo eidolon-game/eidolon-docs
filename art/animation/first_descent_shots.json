@@ -1,0 +1,724 @@
+{
+  "schema_version": 1,
+  "fps": 30,
+  "status": "specified",
+  "timing": "provisional shot envelopes; interactive pauses and localized dialogue extend duration; never truncate dialogue",
+  "scenes": [
+    {
+      "id": "ch_01_sc_001",
+      "chapter": 1,
+      "storyboard_id": "ch_01_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_01_sc_001_dl_001",
+        "ch_01_sc_001_dl_002",
+        "ch_01_sc_001_dl_003",
+        "ch_01_sc_001_dl_004"
+      ],
+      "shots": [
+        {
+          "id": "ch_01_sc_001_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 120,
+          "lens_mm": 35,
+          "action": "Roofline; wall hides horizon"
+        },
+        {
+          "id": "ch_01_sc_001_shot_002",
+          "start_frame": 120,
+          "end_frame_exclusive": 240,
+          "lens_mm": 50,
+          "action": "Forge; handoff to courtyard"
+        }
+      ],
+      "duration_frames": 240,
+      "cues": [
+        {
+          "id": "music_city_valdris",
+          "start_frame": 0
+        },
+        {
+          "id": "sfx_amb_forge",
+          "start_frame": 0
+        },
+        {
+          "id": "sfx_amb_market",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_01_sc_002",
+      "chapter": 1,
+      "storyboard_id": "ch_01_sb_002",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_01_sc_002_dl_001",
+        "ch_01_sc_002_dl_002",
+        "ch_01_sc_002_dl_003",
+        "ch_01_sc_002_dl_004",
+        "ch_01_sc_002_dl_005"
+      ],
+      "shots": [
+        {
+          "id": "ch_01_sc_002_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 180,
+          "lens_mm": 50,
+          "action": "Four place settings"
+        },
+        {
+          "id": "ch_01_sc_002_shot_002",
+          "start_frame": 180,
+          "end_frame_exclusive": 480,
+          "lens_mm": 65,
+          "action": "Family eye-level coverage"
+        }
+      ],
+      "duration_frames": 480,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_01_sc_004",
+      "chapter": 1,
+      "storyboard_id": "ch_01_sb_002",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_01_sc_004_dl_001",
+        "ch_01_sc_004_dl_002",
+        "ch_01_sc_004_dl_003",
+        "ch_01_sc_004_dl_004",
+        "ch_01_sc_004_dl_005",
+        "ch_01_sc_004_dl_006",
+        "ch_01_sc_004_dl_007",
+        "ch_01_sc_004_dl_008"
+      ],
+      "shots": [
+        {
+          "id": "ch_01_sc_004_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 180,
+          "lens_mm": 50,
+          "action": "Darius farewell"
+        },
+        {
+          "id": "ch_01_sc_004_shot_002",
+          "start_frame": 180,
+          "end_frame_exclusive": 360,
+          "lens_mm": 50,
+          "action": "Elara farewell"
+        },
+        {
+          "id": "ch_01_sc_004_shot_003",
+          "start_frame": 360,
+          "end_frame_exclusive": 540,
+          "lens_mm": 50,
+          "action": "Lyra farewell"
+        }
+      ],
+      "duration_frames": 540,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_01_sc_003",
+      "chapter": 1,
+      "storyboard_id": "ch_01_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_01_sc_003_dl_001",
+        "ch_01_sc_003_dl_002",
+        "ch_01_sc_003_dl_003",
+        "ch_01_sc_003_dl_004",
+        "ch_01_sc_003_dl_005",
+        "ch_01_sc_003_dl_006",
+        "ch_01_sc_003_dl_007"
+      ],
+      "shots": [
+        {
+          "id": "ch_01_sc_003_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 180,
+          "lens_mm": 35,
+          "action": "Guild square"
+        },
+        {
+          "id": "ch_01_sc_003_shot_002",
+          "start_frame": 180,
+          "end_frame_exclusive": 420,
+          "lens_mm": 50,
+          "action": "Friends and herald"
+        }
+      ],
+      "duration_frames": 420,
+      "cues": [
+        {
+          "id": "sfx_amb_market",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sc_001",
+      "chapter": 2,
+      "storyboard_id": "ch_02_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_02_sc_001_dl_001",
+        "ch_02_sc_001_dl_002",
+        "ch_02_sc_001_dl_003",
+        "ch_02_sc_001_dl_004",
+        "ch_02_sc_001_dl_005"
+      ],
+      "shots": [
+        {
+          "id": "ch_02_sc_001_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 180,
+          "lens_mm": 50,
+          "action": "Clerk and registry"
+        },
+        {
+          "id": "ch_02_sc_001_shot_002",
+          "start_frame": 180,
+          "end_frame_exclusive": 420,
+          "lens_mm": 65,
+          "action": "Equipment handover"
+        }
+      ],
+      "duration_frames": 420,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sc_002",
+      "chapter": 2,
+      "storyboard_id": "ch_02_sb_002",
+      "mode": "anomaly",
+      "dialogue_ids": [
+        "ch_02_sc_002_dl_001",
+        "ch_02_sc_002_dl_002"
+      ],
+      "shots": [
+        {
+          "id": "ch_02_sc_002_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 120,
+          "lens_mm": 50,
+          "action": "Kael braces against wall"
+        },
+        {
+          "id": "ch_02_sc_002_shot_002",
+          "start_frame": 120,
+          "end_frame_exclusive": 210,
+          "lens_mm": 50,
+          "action": "Stable-camera anomaly alternative"
+        },
+        {
+          "id": "ch_02_sc_002_shot_003",
+          "start_frame": 210,
+          "end_frame_exclusive": 330,
+          "lens_mm": 50,
+          "action": "Recovery and control"
+        }
+      ],
+      "duration_frames": 330,
+      "cues": [
+        {
+          "id": "music_abyss_catacombs",
+          "start_frame": 0
+        },
+        {
+          "id": "sfx_discrepancy_pulse",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sc_005",
+      "chapter": 2,
+      "storyboard_id": "ch_02_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_02_sc_005_dl_001",
+        "ch_02_sc_005_dl_002",
+        "ch_02_sc_005_dl_003",
+        "ch_02_sc_005_dl_004",
+        "ch_02_sc_005_dl_005"
+      ],
+      "shots": [
+        {
+          "id": "ch_02_sc_005_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 180,
+          "lens_mm": 50,
+          "action": "Report at desk"
+        },
+        {
+          "id": "ch_02_sc_005_shot_002",
+          "start_frame": 180,
+          "end_frame_exclusive": 420,
+          "lens_mm": 65,
+          "action": "Clerk directs Kael to dormitory"
+        }
+      ],
+      "duration_frames": 420,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sc_003",
+      "chapter": 2,
+      "storyboard_id": "ch_02_sb_003",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_02_sc_003_dl_001",
+        "ch_02_sc_003_dl_002"
+      ],
+      "shots": [
+        {
+          "id": "ch_02_sc_003_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 180,
+          "lens_mm": 35,
+          "action": "Bunk and rain"
+        },
+        {
+          "id": "ch_02_sc_003_shot_002",
+          "start_frame": 180,
+          "end_frame_exclusive": 360,
+          "lens_mm": 50,
+          "action": "Guard dialogue"
+        }
+      ],
+      "duration_frames": 360,
+      "cues": [
+        {
+          "id": "sfx_weather_rain",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sc_006",
+      "chapter": 2,
+      "storyboard_id": "ch_02_sb_003",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_02_sc_006_dl_001",
+        "ch_02_sc_006_dl_002",
+        "ch_02_sc_006_dl_003",
+        "ch_02_sc_006_dl_004",
+        "ch_02_sc_006_dl_005"
+      ],
+      "shots": [
+        {
+          "id": "ch_02_sc_006_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 240,
+          "lens_mm": 50,
+          "action": "Recruit conversation"
+        },
+        {
+          "id": "ch_02_sc_006_shot_002",
+          "start_frame": 240,
+          "end_frame_exclusive": 330,
+          "lens_mm": 35,
+          "action": "Fade on confirmed rest"
+        }
+      ],
+      "duration_frames": 330,
+      "cues": [
+        {
+          "id": "sfx_weather_rain",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sc_004",
+      "chapter": 2,
+      "storyboard_id": "ch_02_sb_004",
+      "mode": "reveal",
+      "dialogue_ids": [
+        "ch_02_sc_004_dl_001",
+        "ch_02_sc_004_dl_002",
+        "ch_02_sc_004_dl_003",
+        "ch_02_sc_004_dl_004",
+        "ch_02_sc_004_dl_005",
+        "ch_02_sc_004_dl_006",
+        "ch_02_sc_004_dl_007",
+        "ch_02_sc_004_dl_008",
+        "ch_02_sc_004_dl_009"
+      ],
+      "shots": [
+        {
+          "id": "ch_02_sc_004_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 120,
+          "lens_mm": 35,
+          "action": "Kael approaches door"
+        },
+        {
+          "id": "ch_02_sc_004_shot_002",
+          "start_frame": 120,
+          "end_frame_exclusive": 210,
+          "lens_mm": 50,
+          "action": "Noah enters frame"
+        },
+        {
+          "id": "ch_02_sc_004_shot_003",
+          "start_frame": 210,
+          "end_frame_exclusive": 330,
+          "lens_mm": 50,
+          "action": "Child embraces Kael"
+        },
+        {
+          "id": "ch_02_sc_004_shot_004",
+          "start_frame": 330,
+          "end_frame_exclusive": 450,
+          "lens_mm": 85,
+          "action": "Kael freezes and looks to Elara"
+        },
+        {
+          "id": "ch_02_sc_004_shot_005",
+          "start_frame": 450,
+          "end_frame_exclusive": 540,
+          "lens_mm": 50,
+          "action": "Family reaction"
+        },
+        {
+          "id": "ch_02_sc_004_shot_006",
+          "start_frame": 540,
+          "end_frame_exclusive": 780,
+          "lens_mm": 65,
+          "action": "Elara and Kael exchange"
+        },
+        {
+          "id": "ch_02_sc_004_shot_007",
+          "start_frame": 780,
+          "end_frame_exclusive": 1020,
+          "lens_mm": 65,
+          "action": "Lyra and Darius respond"
+        },
+        {
+          "id": "ch_02_sc_004_shot_008",
+          "start_frame": 1020,
+          "end_frame_exclusive": 1200,
+          "lens_mm": 50,
+          "action": "Noah asks; Kael kneels"
+        }
+      ],
+      "duration_frames": 1200,
+      "cues": [
+        {
+          "id": "music_noah",
+          "start_frame": 120
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_02_sc_007",
+      "chapter": 2,
+      "storyboard_id": "ch_02_sb_005",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_02_sc_007_dl_001",
+        "ch_02_sc_007_dl_002",
+        "ch_02_sc_007_dl_003",
+        "ch_02_sc_007_dl_004",
+        "ch_02_sc_007_dl_005",
+        "ch_02_sc_007_dl_006",
+        "ch_02_sc_007_dl_007",
+        "ch_02_sc_007_dl_008",
+        "ch_02_sc_007_dl_009",
+        "ch_02_sc_007_dl_010",
+        "ch_02_sc_007_dl_011"
+      ],
+      "shots": [
+        {
+          "id": "ch_02_sc_007_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 180,
+          "lens_mm": 50,
+          "action": "Drawings inspection"
+        },
+        {
+          "id": "ch_02_sc_007_shot_002",
+          "start_frame": 180,
+          "end_frame_exclusive": 360,
+          "lens_mm": 50,
+          "action": "Clothing inspection"
+        },
+        {
+          "id": "ch_02_sc_007_shot_003",
+          "start_frame": 360,
+          "end_frame_exclusive": 540,
+          "lens_mm": 50,
+          "action": "Birth record inspection"
+        },
+        {
+          "id": "ch_02_sc_007_shot_004",
+          "start_frame": 540,
+          "end_frame_exclusive": 780,
+          "lens_mm": 65,
+          "action": "Choice and acknowledgement"
+        }
+      ],
+      "duration_frames": 780,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_005",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_002",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_005_dl_001",
+        "ch_03_sc_005_dl_002",
+        "ch_03_sc_005_dl_003",
+        "ch_03_sc_005_dl_004"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_005_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 240,
+          "lens_mm": 50,
+          "action": "Noah says goodbye"
+        }
+      ],
+      "duration_frames": 240,
+      "cues": [
+        {
+          "id": "music_noah",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_001",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_001_dl_001",
+        "ch_03_sc_001_dl_002",
+        "ch_03_sc_001_dl_003",
+        "ch_03_sc_001_dl_004",
+        "ch_03_sc_001_dl_005",
+        "ch_03_sc_001_dl_006"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_001_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 240,
+          "lens_mm": 35,
+          "action": "Safe-area side-by-side"
+        },
+        {
+          "id": "ch_03_sc_001_shot_002",
+          "start_frame": 240,
+          "end_frame_exclusive": 600,
+          "lens_mm": 65,
+          "action": "Riven listens"
+        }
+      ],
+      "duration_frames": 600,
+      "cues": [
+        {
+          "id": "music_abyss_catacombs",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_006",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_006_dl_001",
+        "ch_03_sc_006_dl_002",
+        "ch_03_sc_006_dl_003",
+        "ch_03_sc_006_dl_004"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_006_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 360,
+          "lens_mm": 50,
+          "action": "Two alternative conversations"
+        }
+      ],
+      "duration_frames": 360,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_002",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_002_dl_001",
+        "ch_03_sc_002_dl_002",
+        "ch_03_sc_002_dl_003",
+        "ch_03_sc_002_dl_004",
+        "ch_03_sc_002_dl_005"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_002_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 360,
+          "lens_mm": 35,
+          "action": "Staged companion encounters"
+        }
+      ],
+      "duration_frames": 360,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_007",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_001",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_007_dl_001",
+        "ch_03_sc_007_dl_002",
+        "ch_03_sc_007_dl_003",
+        "ch_03_sc_007_dl_004",
+        "ch_03_sc_007_dl_005",
+        "ch_03_sc_007_dl_006",
+        "ch_03_sc_007_dl_007",
+        "ch_03_sc_007_dl_008"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_007_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 480,
+          "lens_mm": 50,
+          "action": "Individual recruitment exchanges"
+        }
+      ],
+      "duration_frames": 480,
+      "cues": [],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_003",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_002",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_003_dl_001",
+        "ch_03_sc_003_dl_002",
+        "ch_03_sc_003_dl_003",
+        "ch_03_sc_003_dl_004",
+        "ch_03_sc_003_dl_005",
+        "ch_03_sc_003_dl_006"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_003_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 240,
+          "lens_mm": 50,
+          "action": "Wooden sword at child eye level"
+        },
+        {
+          "id": "ch_03_sc_003_shot_002",
+          "start_frame": 240,
+          "end_frame_exclusive": 480,
+          "lens_mm": 65,
+          "action": "Lyra at doorway"
+        }
+      ],
+      "duration_frames": 480,
+      "cues": [
+        {
+          "id": "music_noah",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_008",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_002",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_008_dl_001",
+        "ch_03_sc_008_dl_002",
+        "ch_03_sc_008_dl_003",
+        "ch_03_sc_008_dl_004",
+        "ch_03_sc_008_dl_005",
+        "ch_03_sc_008_dl_006"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_008_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 360,
+          "lens_mm": 50,
+          "action": "Kneel and tie sword or decline"
+        }
+      ],
+      "duration_frames": 360,
+      "cues": [
+        {
+          "id": "music_noah",
+          "start_frame": 0
+        }
+      ],
+      "asset_ref": null
+    },
+    {
+      "id": "ch_03_sc_004",
+      "chapter": 3,
+      "storyboard_id": "ch_03_sb_003",
+      "mode": "interactive",
+      "dialogue_ids": [
+        "ch_03_sc_004_dl_001",
+        "ch_03_sc_004_dl_002",
+        "ch_03_sc_004_dl_003",
+        "ch_03_sc_004_dl_004"
+      ],
+      "shots": [
+        {
+          "id": "ch_03_sc_004_shot_001",
+          "start_frame": 0,
+          "end_frame_exclusive": 240,
+          "lens_mm": 50,
+          "action": "Veteran's response"
+        },
+        {
+          "id": "ch_03_sc_004_shot_002",
+          "start_frame": 240,
+          "end_frame_exclusive": 480,
+          "lens_mm": 85,
+          "action": "Warning and exit frame"
+        }
+      ],
+      "duration_frames": 480,
+      "cues": [],
+      "asset_ref": null
+    }
+  ]
+}
