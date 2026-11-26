@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "status": "proposed",
+  "units": "m",
+  "source": "narrative/story.md",
+  "locations": [
+    {
+      "id": "env.valdris",
+      "name": "Valdris",
+      "chapter": 1,
+      "landscape": "fertile plain; immense walls",
+      "materials": "limestone, oak, slate",
+      "palette": "#9B927D",
+      "lighting": "overcast amber",
+      "vegetation": "wheat, hedges",
+      "kit": "market stalls, drainage, timber houses",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.veyr-home",
+      "name": "Veyr home",
+      "chapter": 1,
+      "landscape": "family dwelling",
+      "materials": "lime plaster, oak, linen",
+      "palette": "#B89B78",
+      "lighting": "warm hearth",
+      "vegetation": "herbs",
+      "kit": "table, chairs, bed, toys, drawings, documents, storage",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.forge",
+      "name": "Veyr forge",
+      "chapter": 1,
+      "landscape": "working smithy",
+      "materials": "soot, iron, brick",
+      "palette": "#59483E",
+      "lighting": "fire and daylight",
+      "vegetation": "none indoors",
+      "kit": "anvil, bellows, racks, quench trough",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.guild",
+      "name": "Guild hall",
+      "chapter": 1,
+      "landscape": "civic fortress",
+      "materials": "ashlar, bronze, oak",
+      "palette": "#777C79",
+      "lighting": "high diffuse windows",
+      "vegetation": "courtyard grass",
+      "kit": "registration counter, banners, training racks",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.dormitory",
+      "name": "Guild dormitory",
+      "chapter": 2,
+      "landscape": "recruit quarters",
+      "materials": "wood, plaster, wool",
+      "palette": "#887D6E",
+      "lighting": "oil lamps",
+      "vegetation": "none indoors",
+      "kit": "bunks, lockers, washbasin",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.ignareth",
+      "name": "Ignareth",
+      "chapter": 8,
+      "landscape": "volcanic foothills",
+      "materials": "basalt, iron, refractory brick",
+      "palette": "#65443B",
+      "lighting": "forge glow, ash haze",
+      "vegetation": "sparse scrub",
+      "kit": "forge arches, vents, industrial racks",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.thalassar",
+      "name": "Thalassar",
+      "chapter": 8,
+      "landscape": "ocean cliff",
+      "materials": "salt limestone, rope, weathered wood",
+      "palette": "#66898B",
+      "lighting": "marine fog",
+      "vegetation": "salt grasses",
+      "kit": "sea wall, cranes, cliff stairs",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.nordheim",
+      "name": "Nordheim",
+      "chapter": 8,
+      "landscape": "perennial snow mountains",
+      "materials": "granite, timber, ice",
+      "palette": "#B4C4CD",
+      "lighting": "cold diffuse snow",
+      "vegetation": "conifers",
+      "kit": "steep roofs, windbreaks, braziers",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.solkar",
+      "name": "Solkar",
+      "chapter": 8,
+      "landscape": "desert fortress around spring",
+      "materials": "sandstone, clay, brass",
+      "palette": "#C3A36C",
+      "lighting": "hard sun, dust",
+      "vegetation": "oasis palms",
+      "kit": "shade screens, cisterns, water channels",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.elyndor",
+      "name": "Elyndor",
+      "chapter": 8,
+      "landscape": "ancient forest",
+      "materials": "wood, moss, stone",
+      "palette": "#65785B",
+      "lighting": "canopy shafts",
+      "vegetation": "ancient trees, ferns",
+      "kit": "archive shelves, root bridges",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.aureth",
+      "name": "Aureth",
+      "chapter": 8,
+      "landscape": "Guild capital",
+      "materials": "pale stone, bronze",
+      "palette": "#B4AEA1",
+      "lighting": "formal daylight",
+      "vegetation": "ordered gardens",
+      "kit": "council chambers, archives, colonnades",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.vareth",
+      "name": "Vareth",
+      "chapter": 10,
+      "landscape": "destroyed city then erased plain",
+      "materials": "broken masonry, grass",
+      "palette": "#77766A",
+      "lighting": "smoke then ordinary daylight",
+      "vegetation": "recolonized grass",
+      "kit": "rubble, survivor camp",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.wall-inner",
+      "name": "Inner wall",
+      "chapter": 1,
+      "landscape": "horizon-blocking enclosure",
+      "materials": "massive masonry, iron",
+      "palette": "#72716B",
+      "lighting": "deep shade",
+      "vegetation": "sparse moss",
+      "kit": "gate, buttress, parapet",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.wall-outer",
+      "name": "Outer wall",
+      "chapter": 7,
+      "landscape": "second defensive enclosure",
+      "materials": "ashlar, iron",
+      "palette": "#666966",
+      "lighting": "wind and cloud",
+      "vegetation": "scrub",
+      "kit": "gate, watchtower, ramp",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.giant-territory",
+      "name": "Giant territory",
+      "chapter": 5,
+      "landscape": "forests, mountains, lakes, ruins",
+      "materials": "soil, rock, wood",
+      "palette": "#697C58",
+      "lighting": "variable weather",
+      "vegetation": "forest and meadow",
+      "kit": "abandoned villages, camps",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.titan-territory",
+      "name": "Titan territory",
+      "chapter": 8,
+      "landscape": "continental landscapes",
+      "materials": "regional rock and soil",
+      "palette": "#807B70",
+      "lighting": "regional weather",
+      "vegetation": "regional vegetation",
+      "kit": "ruins, staging camps",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.abyss",
+      "name": "Abyss",
+      "chapter": 2,
+      "landscape": "100 descending floors",
+      "materials": "stone, mineral, metal",
+      "palette": "#53595B",
+      "lighting": "local practical lights",
+      "vegetation": "biome-specific",
+      "kit": "containment structures, stairs",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.oblivion",
+      "name": "Oblivion",
+      "chapter": 20,
+      "landscape": "sunless inhabited erased worlds",
+      "materials": "revision-specific materials",
+      "palette": "#696E7B",
+      "lighting": "diffuse sunless light",
+      "vegetation": "revision-specific",
+      "kit": "alternate buildings, fragment thresholds",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.eternity-stair",
+      "name": "Stair of Eternity",
+      "chapter": 23,
+      "landscape": "100 ascending floors",
+      "materials": "stone, metal, crystalline material",
+      "palette": "#A4A7BA",
+      "lighting": "progressive celestial light",
+      "vegetation": "provisional sparse",
+      "kit": "stairs, platforms, law trial modules",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.empyrea",
+      "name": "Empyrea",
+      "chapter": 24,
+      "landscape": "realm beyond firmament",
+      "materials": "pale mineral, reflective metal",
+      "palette": "#D0C8B2",
+      "lighting": "celestial diffuse",
+      "vegetation": "provisional",
+      "kit": "council space, monumental platforms",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    },
+    {
+      "id": "env.origin",
+      "name": "Origin",
+      "chapter": 26,
+      "landscape": "final encounter space",
+      "materials": "abstract mineral, restrained emissive",
+      "palette": "#D8D3C8",
+      "lighting": "non-directional",
+      "vegetation": "none proposed",
+      "kit": "stable combat platforms",
+      "status": "specified",
+      "provenance": "original department proposal; project rights reserved"
+    }
+  ],
+  "abyss_bands": [
+    {
+      "name": "Catacombs",
+      "first": 1,
+      "last": 10
+    },
+    {
+      "name": "Buried Forest",
+      "first": 11,
+      "last": 20
+    },
+    {
+      "name": "Lost Mines",
+      "first": 21,
+      "last": 30
+    },
+    {
+      "name": "Sunken Kingdom",
+      "first": 31,
+      "last": 40
+    },
+    {
+      "name": "Crystal Lands",
+      "first": 41,
+      "last": 50
+    },
+    {
+      "name": "Necropolis",
+      "first": 51,
+      "last": 60
+    },
+    {
+      "name": "Infernal Forges",
+      "first": 61,
+      "last": 70
+    },
+    {
+      "name": "Inverted Citadel",
+      "first": 71,
+      "last": 80
+    },
+    {
+      "name": "Sanctuary of Silence",
+      "first": 81,
+      "last": 90
+    },
+    {
+      "name": "Heart of the Abyss",
+      "first": 91,
+      "last": 100
+    }
+  ],
+  "stair": {
+    "floors": 100,
+    "laws": [
+      "time",
+      "memory",
+      "life",
+      "death",
+      "matter",
+      "will",
+      "destiny"
+    ],
+    "allocation": "pending narrative review"
+  }
+}
