@@ -1,0 +1,5 @@
+## Equipment visual direction
+All rights reserved. Provisional original designs.
+Valdris: worn iron, leather and wood. Ignareth: forged volcanic alloys. Thalassar: oxidized bronze. Nordheim: pale steel and fur. Solkar: brass and woven cloth. Elyndor: wood and organic motifs. Aureth: polished institutional metal. Oblivion: discontinuous surfaces. Empyrea: luminous geometric alloys.
+For first descent prioritize grounded silhouettes, readable pickup props, and character fit. No divine motifs before narrative authorization. Aegis seal acquisition chapter 4, Horizon chapter 7, Edran journal chapter 6. Heart of Eternity is a damaged reality-altering artifact, not an ordinary equippable weapon; exact appearance and disclosure require Lore review.
+PBR production targets: separate base color, normal, roughness, metallic and AO; no baked lighting in base color. Use linear data maps and sRGB color maps. Garments require rig and clipping review. Socket transforms require Animation approval. Graybox OBJ sources are meters, registry dimensions centimeters. No final asset approval without UV, render, import and gameplay evidence.
