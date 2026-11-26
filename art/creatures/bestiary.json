@@ -1,0 +1,1131 @@
+{
+  "schemaVersion": 1,
+  "canonBlob": "1472f5be51fcfff4c7020d14cc70ab1723ac8104",
+  "units": "meters",
+  "entries": [
+    {
+      "id": "abyss.catacomb.crawler",
+      "name": "Catacomb Crawler",
+      "category": "abyss",
+      "floor": 1,
+      "height": 2,
+      "habitat": "1–10 Catacombs",
+      "silhouette": "low six-limbed, split jaw",
+      "materials": "wet bone and keratin",
+      "locomotion": "crawl/lunge",
+      "attacks": [
+        "bite",
+        "flank"
+      ],
+      "vulnerability": "exposed throat",
+      "anatomy": "low six-limbed, split jaw",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.forest.stalker",
+      "name": "Root Stalker",
+      "category": "abyss",
+      "floor": 11,
+      "height": 3,
+      "habitat": "11–20 Buried Forest",
+      "silhouette": "tall hooked quadruped",
+      "materials": "bark and tendon",
+      "locomotion": "stalk/climb",
+      "attacks": [
+        "root sweep",
+        "pounce"
+      ],
+      "vulnerability": "joint membranes",
+      "anatomy": "tall hooked quadruped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.mine.borer",
+      "name": "Ore Borer",
+      "category": "abyss",
+      "floor": 21,
+      "height": 3,
+      "habitat": "21–30 Lost Mines",
+      "silhouette": "wedge head, broad forelimbs",
+      "materials": "ore and chitin",
+      "locomotion": "burrow/walk",
+      "attacks": [
+        "charge",
+        "debris"
+      ],
+      "vulnerability": "rear plates",
+      "anatomy": "wedge head, broad forelimbs",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.sunken.lurker",
+      "name": "Drowned Lurker",
+      "category": "abyss",
+      "floor": 31,
+      "height": 4,
+      "habitat": "31–40 Sunken Kingdom",
+      "silhouette": "eel torso, paired arms",
+      "materials": "scales and limestone",
+      "locomotion": "swim/crawl",
+      "attacks": [
+        "tail sweep",
+        "ambush"
+      ],
+      "vulnerability": "gill folds",
+      "anatomy": "eel torso, paired arms",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.crystal.strider",
+      "name": "Crystal Strider",
+      "category": "abyss",
+      "floor": 41,
+      "height": 4,
+      "habitat": "41–50 Crystal Lands",
+      "silhouette": "thin tripod",
+      "materials": "quartz and tendon",
+      "locomotion": "tripod stride",
+      "attacks": [
+        "shard volley",
+        "thrust"
+      ],
+      "vulnerability": "unarmored joints",
+      "anatomy": "thin tripod",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.necropolis.sentinel",
+      "name": "Ossuary Sentinel",
+      "category": "abyss",
+      "floor": 51,
+      "height": 4,
+      "habitat": "51–60 Necropolis",
+      "silhouette": "arched biped",
+      "materials": "bone-like ceramic",
+      "locomotion": "walk",
+      "attacks": [
+        "cleave",
+        "guard"
+      ],
+      "vulnerability": "back seam",
+      "anatomy": "arched biped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.forge.mauler",
+      "name": "Furnace Mauler",
+      "category": "abyss",
+      "floor": 61,
+      "height": 5,
+      "habitat": "61–70 Infernal Forges",
+      "silhouette": "heavy quadruped",
+      "materials": "slag and basalt",
+      "locomotion": "trot",
+      "attacks": [
+        "heat vent",
+        "slam"
+      ],
+      "vulnerability": "cooled vents",
+      "anatomy": "heavy quadruped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.inverse.hunter",
+      "name": "Vault Hunter",
+      "category": "abyss",
+      "floor": 71,
+      "height": 3,
+      "habitat": "71–80 Inverted Citadel",
+      "silhouette": "inverted hooked limbs",
+      "materials": "matte stone and sinew",
+      "locomotion": "ceiling crawl",
+      "attacks": [
+        "drop",
+        "hook"
+      ],
+      "vulnerability": "ventral seam",
+      "anatomy": "inverted hooked limbs",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.silence.echo",
+      "name": "Silent Echo",
+      "category": "abyss",
+      "floor": 81,
+      "height": 3,
+      "habitat": "81–90 Sanctuary of Silence",
+      "silhouette": "narrow biped",
+      "materials": "pale membrane",
+      "locomotion": "walk",
+      "attacks": [
+        "delayed thrust",
+        "feint"
+      ],
+      "vulnerability": "recovery window",
+      "anatomy": "narrow biped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "abyss.heart.watcher",
+      "name": "Heart Watcher",
+      "category": "abyss",
+      "floor": 91,
+      "height": 6,
+      "habitat": "91–100 Heart of Abyss",
+      "silhouette": "radial plated torso",
+      "materials": "dark mineral and luminous seams",
+      "locomotion": "walk",
+      "attacks": [
+        "radial sweep",
+        "pulse"
+      ],
+      "vulnerability": "open core",
+      "anatomy": "radial plated torso",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "common",
+        "rare",
+        "elite"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "boss.abyss.guardian",
+      "name": "Custode dell'Abisso",
+      "category": "guardian",
+      "floor": 100,
+      "height": 15,
+      "habitat": "Abyss floor 100",
+      "silhouette": "bound monumental quadruped",
+      "materials": "stone, tendon, artificial restraints",
+      "locomotion": "walk/brace",
+      "attacks": [
+        "chain sweep",
+        "slam",
+        "pulse"
+      ],
+      "vulnerability": "exposed restraint junction",
+      "anatomy": "bound monumental quadruped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "giant.valdris",
+      "name": "Plains Giant",
+      "category": "giant",
+      "floor": null,
+      "height": 12,
+      "habitat": "Valdris plains",
+      "silhouette": "broad knuckle walker",
+      "materials": "soil and muscle",
+      "locomotion": "walk",
+      "attacks": [
+        "stomp",
+        "sweep"
+      ],
+      "vulnerability": "ankle seam",
+      "anatomy": "broad knuckle walker",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "giant.ignareth",
+      "name": "Volcanic Giant",
+      "category": "giant",
+      "floor": null,
+      "height": 25,
+      "habitat": "Ignareth",
+      "silhouette": "heavy biped",
+      "materials": "basalt and slag",
+      "locomotion": "walk",
+      "attacks": [
+        "slam",
+        "vent"
+      ],
+      "vulnerability": "cooling seam",
+      "anatomy": "heavy biped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "giant.thalassar",
+      "name": "Tidal Giant",
+      "category": "giant",
+      "floor": null,
+      "height": 30,
+      "habitat": "Thalassar",
+      "silhouette": "amphibious quadruped",
+      "materials": "salt crust and scales",
+      "locomotion": "swim/walk",
+      "attacks": [
+        "surge",
+        "tail"
+      ],
+      "vulnerability": "gill seam",
+      "anatomy": "amphibious quadruped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "giant.nordheim",
+      "name": "Frost Giant",
+      "category": "giant",
+      "floor": null,
+      "height": 35,
+      "habitat": "Nordheim",
+      "silhouette": "long-limbed biped",
+      "materials": "ice and granite",
+      "locomotion": "walk",
+      "attacks": [
+        "ice sweep",
+        "stomp"
+      ],
+      "vulnerability": "joint seam",
+      "anatomy": "long-limbed biped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "giant.solkar",
+      "name": "Dune Giant",
+      "category": "giant",
+      "floor": null,
+      "height": 18,
+      "habitat": "Solkar",
+      "silhouette": "low broad quadruped",
+      "materials": "sandstone",
+      "locomotion": "walk/burrow",
+      "attacks": [
+        "sand surge",
+        "ram"
+      ],
+      "vulnerability": "ventral seam",
+      "anatomy": "low broad quadruped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "giant.elyndor",
+      "name": "Root Giant",
+      "category": "giant",
+      "floor": null,
+      "height": 40,
+      "habitat": "Elyndor",
+      "silhouette": "branch-backed quadruped",
+      "materials": "wood and stone",
+      "locomotion": "walk",
+      "attacks": [
+        "root lash",
+        "stomp"
+      ],
+      "vulnerability": "root junction",
+      "anatomy": "branch-backed quadruped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "giant.aureth",
+      "name": "Plate Giant",
+      "category": "giant",
+      "floor": null,
+      "height": 22,
+      "habitat": "Aureth outskirts",
+      "silhouette": "shield-backed biped",
+      "materials": "layered slate",
+      "locomotion": "walk",
+      "attacks": [
+        "shield bash",
+        "sweep"
+      ],
+      "vulnerability": "rear seam",
+      "anatomy": "shield-backed biped",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 2,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "titan.roaming",
+      "name": "Roaming Titan",
+      "category": "titan",
+      "floor": null,
+      "height": 180,
+      "habitat": "Outer regions",
+      "silhouette": "four pillars, arched dorsal mass",
+      "materials": "layered stone and fibrous seams",
+      "locomotion": "slow walk",
+      "attacks": [
+        "stomp",
+        "body sweep"
+      ],
+      "vulnerability": "dorsal nodes",
+      "anatomy": "four pillars, arched dorsal mass",
+      "behavior": "City-directed roaming; no feeding or speech",
+      "variants": [
+        "base"
+      ],
+      "rig": "segmented skeletal rig with local climb anchors",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "segmented simple collision; climb graph separate",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 9,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "titan.ancient",
+      "name": "Ancient Titan",
+      "category": "titan",
+      "floor": null,
+      "height": 1200,
+      "habitat": "Outer regions",
+      "silhouette": "mountain-like quadruped",
+      "materials": "stratified rock",
+      "locomotion": "slow walk",
+      "attacks": [
+        "terrain impact",
+        "shake"
+      ],
+      "vulnerability": "segmented dorsal nodes",
+      "anatomy": "mountain-like quadruped",
+      "behavior": "City-directed roaming; no feeding or speech",
+      "variants": [
+        "base"
+      ],
+      "rig": "segmented skeletal rig with local climb anchors",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "segmented simple collision; climb graph separate",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 9,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "oblivion.echo",
+      "name": "Fracture Echo",
+      "category": "oblivion",
+      "floor": null,
+      "height": 3,
+      "habitat": "Oblivion",
+      "silhouette": "offset silhouette",
+      "materials": "fractured ceramic",
+      "locomotion": "walk/phase",
+      "attacks": [
+        "telegraphed phase strike"
+      ],
+      "vulnerability": "materialized interval",
+      "anatomy": "offset silhouette",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 20,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "celestial.sentinel",
+      "name": "Celestial Sentinel",
+      "category": "celestial",
+      "floor": null,
+      "height": 4,
+      "habitat": "Stair of Eternity",
+      "silhouette": "winged humanoid",
+      "materials": "luminous armor",
+      "locomotion": "walk/fly",
+      "attacks": [
+        "dive",
+        "lance"
+      ],
+      "vulnerability": "wing root",
+      "anatomy": "winged humanoid",
+      "behavior": "Encounter-directed; AI approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "celestial.forming_titan",
+      "name": "Forming Titan",
+      "category": "titan",
+      "floor": null,
+      "height": 120,
+      "habitat": "Stair of Eternity",
+      "silhouette": "incomplete pillar limbs",
+      "materials": "unfused mineral",
+      "locomotion": "walk",
+      "attacks": [
+        "pulse",
+        "slam"
+      ],
+      "vulnerability": "unfused nodes",
+      "anatomy": "incomplete pillar limbs",
+      "behavior": "City-directed roaming; no feeding or speech",
+      "variants": [
+        "base"
+      ],
+      "rig": "segmented skeletal rig with local climb anchors",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "segmented simple collision; climb graph separate",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 9,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "divine.aurelion",
+      "name": "Aurelion",
+      "category": "divine",
+      "floor": null,
+      "height": 8,
+      "habitat": "Empyrea",
+      "silhouette": "axial crown and rigid wings",
+      "materials": "divine mineral and luminous filaments",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "grid strike",
+        "reality shift"
+      ],
+      "vulnerability": "telegraphed recovery",
+      "anatomy": "axial crown and rigid wings",
+      "behavior": "Narrative-controlled; combat not mandatory except Aurelion",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 12,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "divine.veyra",
+      "name": "Veyra",
+      "category": "divine",
+      "floor": null,
+      "height": 8,
+      "habitat": "Empyrea",
+      "silhouette": "branching mantle",
+      "materials": "divine mineral and luminous filaments",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "growth wave"
+      ],
+      "vulnerability": "telegraphed recovery",
+      "anatomy": "branching mantle",
+      "behavior": "Narrative-controlled; combat not mandatory except Aurelion",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 12,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "divine.morveth",
+      "name": "Morveth",
+      "category": "divine",
+      "floor": null,
+      "height": 8,
+      "habitat": "Empyrea",
+      "silhouette": "hollow mantle",
+      "materials": "divine mineral and luminous filaments",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "decay field"
+      ],
+      "vulnerability": "telegraphed recovery",
+      "anatomy": "hollow mantle",
+      "behavior": "Narrative-controlled; combat not mandatory except Aurelion",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 12,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "divine.chronar",
+      "name": "Chronar",
+      "category": "divine",
+      "floor": null,
+      "height": 8,
+      "habitat": "Empyrea",
+      "silhouette": "concentric rings",
+      "materials": "divine mineral and luminous filaments",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "delayed strike"
+      ],
+      "vulnerability": "telegraphed recovery",
+      "anatomy": "concentric rings",
+      "behavior": "Narrative-controlled; combat not mandatory except Aurelion",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 12,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "divine.ignivar",
+      "name": "Ignivar",
+      "category": "divine",
+      "floor": null,
+      "height": 8,
+      "habitat": "Empyrea",
+      "silhouette": "angular armor",
+      "materials": "divine mineral and luminous filaments",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "impact wave"
+      ],
+      "vulnerability": "telegraphed recovery",
+      "anatomy": "angular armor",
+      "behavior": "Narrative-controlled; combat not mandatory except Aurelion",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 12,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "divine.elyria",
+      "name": "Elyria",
+      "category": "divine",
+      "floor": null,
+      "height": 8,
+      "habitat": "Empyrea",
+      "silhouette": "layered translucent mantle",
+      "materials": "divine mineral and luminous filaments",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "memory projection"
+      ],
+      "vulnerability": "telegraphed recovery",
+      "anatomy": "layered translucent mantle",
+      "behavior": "Narrative-controlled; combat not mandatory except Aurelion",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 12,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "divine.nhalor",
+      "name": "Nhalor",
+      "category": "divine",
+      "floor": null,
+      "height": 8,
+      "habitat": "Empyrea",
+      "silhouette": "asymmetric open wings",
+      "materials": "divine mineral and luminous filaments",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "directional gust"
+      ],
+      "vulnerability": "telegraphed recovery",
+      "anatomy": "asymmetric open wings",
+      "behavior": "Narrative-controlled; combat not mandatory except Aurelion",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 12,
+      "status": "specified",
+      "canonStatus": "canonical identity; design proposed",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    }
+  ]
+}
