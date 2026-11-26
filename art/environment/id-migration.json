@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "status": "proposed",
+  "aliases": [
+    {
+      "legacy_id": "env.valdris",
+      "id": "env_valdris"
+    },
+    {
+      "legacy_id": "env.veyr-home",
+      "id": "env_veyr_home"
+    },
+    {
+      "legacy_id": "env.forge",
+      "id": "env_forge"
+    },
+    {
+      "legacy_id": "env.guild",
+      "id": "env_guild"
+    },
+    {
+      "legacy_id": "env.dormitory",
+      "id": "env_dormitory"
+    },
+    {
+      "legacy_id": "env.ignareth",
+      "id": "env_ignareth"
+    },
+    {
+      "legacy_id": "env.thalassar",
+      "id": "env_thalassar"
+    },
+    {
+      "legacy_id": "env.nordheim",
+      "id": "env_nordheim"
+    },
+    {
+      "legacy_id": "env.solkar",
+      "id": "env_solkar"
+    },
+    {
+      "legacy_id": "env.elyndor",
+      "id": "env_elyndor"
+    },
+    {
+      "legacy_id": "env.aureth",
+      "id": "env_aureth"
+    },
+    {
+      "legacy_id": "env.vareth",
+      "id": "env_vareth"
+    },
+    {
+      "legacy_id": "env.wall-inner",
+      "id": "env_wall_inner"
+    },
+    {
+      "legacy_id": "env.wall-outer",
+      "id": "env_wall_outer"
+    },
+    {
+      "legacy_id": "env.giant-territory",
+      "id": "env_giant_territory"
+    },
+    {
+      "legacy_id": "env.titan-territory",
+      "id": "env_titan_territory"
+    },
+    {
+      "legacy_id": "env.abyss",
+      "id": "env_abyss"
+    },
+    {
+      "legacy_id": "env.oblivion",
+      "id": "env_oblivion"
+    },
+    {
+      "legacy_id": "env.eternity-stair",
+      "id": "env_eternity_stair"
+    },
+    {
+      "legacy_id": "env.empyrea",
+      "id": "env_empyrea"
+    },
+    {
+      "legacy_id": "env.origin",
+      "id": "env_origin"
+    },
+    {
+      "legacy_id": "env.veyr-home.before",
+      "id": "env_veyr_home_before"
+    },
+    {
+      "legacy_id": "env.veyr-home.present",
+      "id": "env_veyr_home_present"
+    },
+    {
+      "legacy_id": "env.veyr-home.erased",
+      "id": "env_veyr_home_erased"
+    },
+    {
+      "legacy_id": "env.vareth.ruins",
+      "id": "env_vareth_ruins"
+    },
+    {
+      "legacy_id": "env.vareth.erased",
+      "id": "env_vareth_erased"
+    },
+    {
+      "legacy_id": "env.oblivion.veyr-alternate",
+      "id": "env_oblivion_veyr_alternate"
+    },
+    {
+      "legacy_id": "env.oblivion.valdris-deserted",
+      "id": "env_oblivion_valdris_deserted"
+    }
+  ]
+}
