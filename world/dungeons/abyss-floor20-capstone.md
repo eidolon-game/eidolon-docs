@@ -1,6 +1,6 @@
 # Piano 20 · Il Groviglio della faglia | Riftroot Tangle
 
-Proposta per `boss_abyss_20`, caposaldo dell'arena **Radici nella faglia** (`abyss_020`). Una creatura dell'Abisso si muove trascinando blocchi di roccia stretti tra fasci di radici. Ha quattro punti d'appoggio bassi, una cavità centrale che si apre dopo lo sforzo e una sagoma irregolare che si riconosce contro la parete. L'ingombro iniziale è 420 × 500 × 310 cm in posizione neutra. La creatura, il nome e le mosse sono proposte di design. Il bestiario la classificherebbe tra i mostri dell'Abisso, in una categoria distinta da Giganti e Titani. [Piano della Foresta Sepolta](abyss-buried-forest-plan.md) · [Mappatura proposta](https://github.com/eidolon-game/eidolon-game/blob/82c869f35e384c2b1462274e45612f928ea9e57e/Source/Eidolon/Dungeons/Data/boss_floor_mapping.json)
+`boss_abyss_20` è il caposaldo dell'arena **Radici nella faglia** (`abyss_020`). Una creatura dell'Abisso si muove trascinando blocchi di roccia stretti tra fasci di radici. Ha quattro punti d'appoggio bassi, una cavità centrale che si apre dopo lo sforzo e una sagoma irregolare che si riconosce contro la parete. L'ingombro di riferimento è 420 × 500 × 310 cm in posizione neutra. Il modello resta un prototipo. Nel bestiario di produzione appartiene ai mostri dell'Abisso. [Piano della Foresta Sepolta](abyss-buried-forest-plan.md) · [Mappatura proposta](https://github.com/eidolon-game/eidolon-game/blob/82c869f35e384c2b1462274e45612f928ea9e57e/Source/Eidolon/Dungeons/Data/boss_floor_mapping.json)
 
 ## Arena e ancore
 
@@ -41,4 +41,4 @@ Il riposizionamento sposta il punto di partenza degli attacchi. La caduta del bl
 - Supera il 45% durante ciascuna fase di una mossa. Prova destinazione occupata e danno letale che supera la soglia. Verifica una sola transizione per tentativo.
 - Simula mancato spawn, rifiuto della ricevuta e perdita di risposta dopo la scrittura. Ricarica prima e dopo la conferma della sconfitta; verifica stato della creatura, collisione del varco e assenza di ricompense duplicate. Verifica arrivo al piano 21 dopo fallimento e retry del caricamento.
 
-Prove, asset e binding runtime da realizzare dopo la revisione del brief.
+Il graybox usa `abyss_020_encounter` per avviare lo scontro, `abyss_020_boss_advance` a (2050, 0, 0) per lo scorrimento, `abyss_020_riftroot_gate` a X 2600 e l'uscita a X 2820. La rampa successiva resta in attesa della mappa delle Miniere Perdute. Importazione degli asset e prove runtime UE 5.6 da eseguire.
