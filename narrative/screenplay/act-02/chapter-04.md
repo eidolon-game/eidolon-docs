@@ -25,3 +25,12 @@ Aldren consegna il Sigillo dell'Egida e spiega il vero scopo del dungeon e l'esi
 
 Completion: Abyss floor 100, Custodian defeated, door inspected, Sigil granted; unlock first wall only. All ten biome encounter scripts still require expansion.
 Dependencies: Quest maps gates and validated events; Save persists completion idempotently; Cinematics stages reveal and control handoff; Audio records dialogue and environment cues. Detailed encounter and alternative dialogue passes pending.
+
+## Cycle 02 production insert
+
+## ch_04_sc_004 — Livello 90, dopo il combattimento (prima di sc_002)
+Il giocatore può avvicinarsi alla creatura morente o mantenere la distanza; la battuta «Ricorda» di sc_001 viene riprodotta in entrambi i casi, una sola volta. Nessun riferimento a un Custode parlante.
+- ch_04_sc_004_dl_001 — Selene: «L'hai sentito anche tu?»
+- ch_04_sc_004_dl_002 — Kael: «Sì. Ma non so che cosa volesse dire.»
+- ch_04_sc_004_dl_003 — Riven: «Non restiamo qui. Qualunque cosa fosse, abbiamo ancora dieci livelli davanti.»
+Choice: annotate the word immediately or defer journal access; the mandatory discovery persists regardless. At level 100 the Custodian is a separate encounter, not the speaker. Quest 08: legacy mq_04_line_1 speaker must be corrected to the floor-90 monster; no shared file change.
