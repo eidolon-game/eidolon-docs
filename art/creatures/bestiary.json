@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "canonBlob": "1472f5be51fcfff4c7020d14cc70ab1723ac8104",
   "units": "meters",
   "entries": [
     {
-      "id": "abyss.catacomb.crawler",
+      "id": "abyss_catacomb_crawler",
       "name": "Catacomb Crawler",
       "category": "abyss",
       "floor": 1,
@@ -40,10 +40,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.catacomb.crawler",
+      "heightCm": 200,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_catacomb_crawler"
     },
     {
-      "id": "abyss.forest.stalker",
+      "id": "abyss_forest_stalker",
       "name": "Root Stalker",
       "category": "abyss",
       "floor": 11,
@@ -79,10 +83,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.forest.stalker",
+      "heightCm": 300,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_forest_stalker"
     },
     {
-      "id": "abyss.mine.borer",
+      "id": "abyss_mine_borer",
       "name": "Ore Borer",
       "category": "abyss",
       "floor": 21,
@@ -118,10 +126,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.mine.borer",
+      "heightCm": 300,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_mine_borer"
     },
     {
-      "id": "abyss.sunken.lurker",
+      "id": "abyss_sunken_lurker",
       "name": "Drowned Lurker",
       "category": "abyss",
       "floor": 31,
@@ -157,10 +169,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.sunken.lurker",
+      "heightCm": 400,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_sunken_lurker"
     },
     {
-      "id": "abyss.crystal.strider",
+      "id": "abyss_crystal_strider",
       "name": "Crystal Strider",
       "category": "abyss",
       "floor": 41,
@@ -196,10 +212,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.crystal.strider",
+      "heightCm": 400,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_crystal_strider"
     },
     {
-      "id": "abyss.necropolis.sentinel",
+      "id": "abyss_necropolis_sentinel",
       "name": "Ossuary Sentinel",
       "category": "abyss",
       "floor": 51,
@@ -235,10 +255,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.necropolis.sentinel",
+      "heightCm": 400,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_necropolis_sentinel"
     },
     {
-      "id": "abyss.forge.mauler",
+      "id": "abyss_forge_mauler",
       "name": "Furnace Mauler",
       "category": "abyss",
       "floor": 61,
@@ -274,10 +298,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.forge.mauler",
+      "heightCm": 500,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_forge_mauler"
     },
     {
-      "id": "abyss.inverse.hunter",
+      "id": "abyss_inverse_hunter",
       "name": "Vault Hunter",
       "category": "abyss",
       "floor": 71,
@@ -313,10 +341,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.inverse.hunter",
+      "heightCm": 300,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_inverse_hunter"
     },
     {
-      "id": "abyss.silence.echo",
+      "id": "abyss_silence_echo",
       "name": "Silent Echo",
       "category": "abyss",
       "floor": 81,
@@ -352,10 +384,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.silence.echo",
+      "heightCm": 300,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_silence_echo"
     },
     {
-      "id": "abyss.heart.watcher",
+      "id": "abyss_heart_watcher",
       "name": "Heart Watcher",
       "category": "abyss",
       "floor": 91,
@@ -391,10 +427,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "abyss.heart.watcher",
+      "heightCm": 600,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_abyss_heart_watcher"
     },
     {
-      "id": "boss.abyss.guardian",
+      "id": "boss_abyss_guardian",
       "name": "Custode dell'Abisso",
       "category": "guardian",
       "floor": 100,
@@ -425,14 +465,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 4,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "boss.abyss.guardian",
+      "heightCm": 1500,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_guardian"
     },
     {
-      "id": "giant.valdris",
+      "id": "giant_valdris",
       "name": "Plains Giant",
       "category": "giant",
       "floor": null,
@@ -462,14 +506,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 5,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "giant.valdris",
+      "heightCm": 1200,
+      "dungeonId": null,
+      "displayNameKey": "creature_giant_valdris"
     },
     {
-      "id": "giant.ignareth",
+      "id": "giant_ignareth",
       "name": "Volcanic Giant",
       "category": "giant",
       "floor": null,
@@ -499,14 +547,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 5,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "giant.ignareth",
+      "heightCm": 2500,
+      "dungeonId": null,
+      "displayNameKey": "creature_giant_ignareth"
     },
     {
-      "id": "giant.thalassar",
+      "id": "giant_thalassar",
       "name": "Tidal Giant",
       "category": "giant",
       "floor": null,
@@ -536,14 +588,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 5,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "giant.thalassar",
+      "heightCm": 3000,
+      "dungeonId": null,
+      "displayNameKey": "creature_giant_thalassar"
     },
     {
-      "id": "giant.nordheim",
+      "id": "giant_nordheim",
       "name": "Frost Giant",
       "category": "giant",
       "floor": null,
@@ -573,14 +629,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 5,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "giant.nordheim",
+      "heightCm": 3500,
+      "dungeonId": null,
+      "displayNameKey": "creature_giant_nordheim"
     },
     {
-      "id": "giant.solkar",
+      "id": "giant_solkar",
       "name": "Dune Giant",
       "category": "giant",
       "floor": null,
@@ -610,14 +670,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 5,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "giant.solkar",
+      "heightCm": 1800,
+      "dungeonId": null,
+      "displayNameKey": "creature_giant_solkar"
     },
     {
-      "id": "giant.elyndor",
+      "id": "giant_elyndor",
       "name": "Root Giant",
       "category": "giant",
       "floor": null,
@@ -647,14 +711,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 5,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "giant.elyndor",
+      "heightCm": 4000,
+      "dungeonId": null,
+      "displayNameKey": "creature_giant_elyndor"
     },
     {
-      "id": "giant.aureth",
+      "id": "giant_aureth",
       "name": "Plate Giant",
       "category": "giant",
       "floor": null,
@@ -684,14 +752,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 2,
+      "revealChapter": 5,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "giant.aureth",
+      "heightCm": 2200,
+      "dungeonId": null,
+      "displayNameKey": "creature_giant_aureth"
     },
     {
-      "id": "titan.roaming",
+      "id": "titan_roaming",
       "name": "Roaming Titan",
       "category": "titan",
       "floor": null,
@@ -725,10 +797,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "titan.roaming",
+      "heightCm": 18000,
+      "dungeonId": null,
+      "displayNameKey": "creature_titan_roaming"
     },
     {
-      "id": "titan.ancient",
+      "id": "titan_ancient",
       "name": "Ancient Titan",
       "category": "titan",
       "floor": null,
@@ -762,10 +838,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "titan.ancient",
+      "heightCm": 120000,
+      "dungeonId": null,
+      "displayNameKey": "creature_titan_ancient"
     },
     {
-      "id": "oblivion.echo",
+      "id": "oblivion_echo",
       "name": "Fracture Echo",
       "category": "oblivion",
       "floor": null,
@@ -798,10 +878,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "oblivion.echo",
+      "heightCm": 300,
+      "dungeonId": null,
+      "displayNameKey": "creature_oblivion_echo"
     },
     {
-      "id": "celestial.sentinel",
+      "id": "celestial_sentinel",
       "name": "Celestial Sentinel",
       "category": "celestial",
       "floor": null,
@@ -835,10 +919,14 @@
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "celestial.sentinel",
+      "heightCm": 400,
+      "dungeonId": "stair",
+      "displayNameKey": "creature_celestial_sentinel"
     },
     {
-      "id": "celestial.forming_titan",
+      "id": "celestial_forming_titan",
       "name": "Forming Titan",
       "category": "titan",
       "floor": null,
@@ -868,14 +956,18 @@
       ],
       "collision": "segmented simple collision; climb graph separate",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 9,
+      "revealChapter": 23,
       "status": "specified",
       "canonStatus": "proposed archetype",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "celestial.forming_titan",
+      "heightCm": 12000,
+      "dungeonId": "stair",
+      "displayNameKey": "creature_celestial_forming_titan"
     },
     {
-      "id": "divine.aurelion",
+      "id": "divine_aurelion",
       "name": "Aurelion",
       "category": "divine",
       "floor": null,
@@ -905,14 +997,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 12,
+      "revealChapter": 26,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "divine.aurelion",
+      "heightCm": 800,
+      "dungeonId": null,
+      "displayNameKey": "creature_divine_aurelion"
     },
     {
-      "id": "divine.veyra",
+      "id": "divine_veyra",
       "name": "Veyra",
       "category": "divine",
       "floor": null,
@@ -941,14 +1037,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 12,
+      "revealChapter": 25,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "divine.veyra",
+      "heightCm": 800,
+      "dungeonId": null,
+      "displayNameKey": "creature_divine_veyra"
     },
     {
-      "id": "divine.morveth",
+      "id": "divine_morveth",
       "name": "Morveth",
       "category": "divine",
       "floor": null,
@@ -977,14 +1077,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 12,
+      "revealChapter": 25,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "divine.morveth",
+      "heightCm": 800,
+      "dungeonId": null,
+      "displayNameKey": "creature_divine_morveth"
     },
     {
-      "id": "divine.chronar",
+      "id": "divine_chronar",
       "name": "Chronar",
       "category": "divine",
       "floor": null,
@@ -1013,14 +1117,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 12,
+      "revealChapter": 25,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "divine.chronar",
+      "heightCm": 800,
+      "dungeonId": null,
+      "displayNameKey": "creature_divine_chronar"
     },
     {
-      "id": "divine.ignivar",
+      "id": "divine_ignivar",
       "name": "Ignivar",
       "category": "divine",
       "floor": null,
@@ -1049,14 +1157,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 12,
+      "revealChapter": 25,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "divine.ignivar",
+      "heightCm": 800,
+      "dungeonId": null,
+      "displayNameKey": "creature_divine_ignivar"
     },
     {
-      "id": "divine.elyria",
+      "id": "divine_elyria",
       "name": "Elyria",
       "category": "divine",
       "floor": null,
@@ -1085,14 +1197,18 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 12,
+      "revealChapter": 25,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
-      "asset": null
+      "asset": null,
+      "legacyId": "divine.elyria",
+      "heightCm": 800,
+      "dungeonId": null,
+      "displayNameKey": "creature_divine_elyria"
     },
     {
-      "id": "divine.nhalor",
+      "id": "divine_nhalor",
       "name": "Nhalor",
       "category": "divine",
       "floor": null,
@@ -1121,11 +1237,673 @@
       ],
       "collision": "simple body primitives and authored hit zones",
       "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
-      "revealChapter": 12,
+      "revealChapter": 25,
       "status": "specified",
       "canonStatus": "canonical identity; design proposed",
       "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": "divine.nhalor",
+      "heightCm": 800,
+      "dungeonId": null,
+      "displayNameKey": "creature_divine_nhalor"
+    },
+    {
+      "id": "boss_abyss_10",
+      "name": "Catacomb Crawler Prime",
+      "category": "boss",
+      "floor": 10,
+      "height": 3,
+      "habitat": "1–10 Catacombs",
+      "silhouette": "low six-limbed, split jaw",
+      "materials": "wet bone and keratin",
+      "locomotion": "crawl/lunge",
+      "attacks": [
+        "bite",
+        "flank"
+      ],
+      "vulnerability": "exposed throat",
+      "anatomy": "low six-limbed, split jaw",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 300,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_10"
+    },
+    {
+      "id": "boss_abyss_20",
+      "name": "Root Stalker Prime",
+      "category": "boss",
+      "floor": 20,
+      "height": 4.5,
+      "habitat": "11–20 Buried Forest",
+      "silhouette": "tall hooked quadruped",
+      "materials": "bark and tendon",
+      "locomotion": "stalk/climb",
+      "attacks": [
+        "root sweep",
+        "pounce"
+      ],
+      "vulnerability": "joint membranes",
+      "anatomy": "tall hooked quadruped",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 450,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_20"
+    },
+    {
+      "id": "boss_abyss_30",
+      "name": "Ore Borer Prime",
+      "category": "boss",
+      "floor": 30,
+      "height": 4.5,
+      "habitat": "21–30 Lost Mines",
+      "silhouette": "wedge head, broad forelimbs",
+      "materials": "ore and chitin",
+      "locomotion": "burrow/walk",
+      "attacks": [
+        "charge",
+        "debris"
+      ],
+      "vulnerability": "rear plates",
+      "anatomy": "wedge head, broad forelimbs",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 450,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_30"
+    },
+    {
+      "id": "boss_abyss_40",
+      "name": "Drowned Lurker Prime",
+      "category": "boss",
+      "floor": 40,
+      "height": 6,
+      "habitat": "31–40 Sunken Kingdom",
+      "silhouette": "eel torso, paired arms",
+      "materials": "scales and limestone",
+      "locomotion": "swim/crawl",
+      "attacks": [
+        "tail sweep",
+        "ambush"
+      ],
+      "vulnerability": "gill folds",
+      "anatomy": "eel torso, paired arms",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 600,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_40"
+    },
+    {
+      "id": "boss_abyss_50",
+      "name": "Crystal Strider Prime",
+      "category": "boss",
+      "floor": 50,
+      "height": 6,
+      "habitat": "41–50 Crystal Lands",
+      "silhouette": "thin tripod",
+      "materials": "quartz and tendon",
+      "locomotion": "tripod stride",
+      "attacks": [
+        "shard volley",
+        "thrust"
+      ],
+      "vulnerability": "unarmored joints",
+      "anatomy": "thin tripod",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 600,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_50"
+    },
+    {
+      "id": "boss_abyss_60",
+      "name": "Ossuary Sentinel Prime",
+      "category": "boss",
+      "floor": 60,
+      "height": 6,
+      "habitat": "51–60 Necropolis",
+      "silhouette": "arched biped",
+      "materials": "bone-like ceramic",
+      "locomotion": "walk",
+      "attacks": [
+        "cleave",
+        "guard"
+      ],
+      "vulnerability": "back seam",
+      "anatomy": "arched biped",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 600,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_60"
+    },
+    {
+      "id": "boss_abyss_70",
+      "name": "Furnace Mauler Prime",
+      "category": "boss",
+      "floor": 70,
+      "height": 7.5,
+      "habitat": "61–70 Infernal Forges",
+      "silhouette": "heavy quadruped",
+      "materials": "slag and basalt",
+      "locomotion": "trot",
+      "attacks": [
+        "heat vent",
+        "slam"
+      ],
+      "vulnerability": "cooled vents",
+      "anatomy": "heavy quadruped",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 750,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_70"
+    },
+    {
+      "id": "boss_abyss_80",
+      "name": "Vault Hunter Prime",
+      "category": "boss",
+      "floor": 80,
+      "height": 4.5,
+      "habitat": "71–80 Inverted Citadel",
+      "silhouette": "inverted hooked limbs",
+      "materials": "matte stone and sinew",
+      "locomotion": "ceiling crawl",
+      "attacks": [
+        "drop",
+        "hook"
+      ],
+      "vulnerability": "ventral seam",
+      "anatomy": "inverted hooked limbs",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 450,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_80"
+    },
+    {
+      "id": "boss_abyss_90",
+      "name": "Silent Echo Prime",
+      "category": "boss",
+      "floor": 90,
+      "height": 4.5,
+      "habitat": "81–90 Sanctuary of Silence",
+      "silhouette": "narrow biped",
+      "materials": "pale membrane",
+      "locomotion": "walk",
+      "attacks": [
+        "delayed thrust",
+        "feint"
+      ],
+      "vulnerability": "recovery window",
+      "anatomy": "narrow biped",
+      "behavior": "Proposed biome capstone; combat owner approval pending",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton; deformation review pending",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple body primitives and authored hit zones",
+      "lod": "skeletal LOD fallback required; Nanite eligibility unverified",
+      "revealChapter": 3,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null,
+      "legacyId": null,
+      "heightCm": 450,
+      "dungeonId": "abyss",
+      "displayNameKey": "creature_boss_abyss_90"
+    },
+    {
+      "id": "stair_time_warden",
+      "legacyId": null,
+      "name": "Time Warden",
+      "displayNameKey": "creature_stair_time_warden",
+      "category": "celestial",
+      "floor": null,
+      "dungeonId": "stair",
+      "height": 5,
+      "heightCm": 500,
+      "habitat": "Stair of Eternity; time trial",
+      "silhouette": "ringed biped",
+      "anatomy": "Articulated mineral frame with flexible joints",
+      "materials": "ceramic plates and luminous seams",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "telegraphed sweep",
+        "law-themed pulse"
+      ],
+      "vulnerability": "exposed joint during recovery",
+      "behavior": "Trial encounter; exact floor and mechanics pending level/combat review",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple primitives and authored hit zones",
+      "lod": "skeletal LOD fallback; Nanite unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "stair_memory_warden",
+      "legacyId": null,
+      "name": "Memory Warden",
+      "displayNameKey": "creature_stair_memory_warden",
+      "category": "celestial",
+      "floor": null,
+      "dungeonId": "stair",
+      "height": 5,
+      "heightCm": 500,
+      "habitat": "Stair of Eternity; memory trial",
+      "silhouette": "layered mask",
+      "anatomy": "Articulated mineral frame with flexible joints",
+      "materials": "ceramic plates and luminous seams",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "telegraphed sweep",
+        "law-themed pulse"
+      ],
+      "vulnerability": "exposed joint during recovery",
+      "behavior": "Trial encounter; exact floor and mechanics pending level/combat review",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple primitives and authored hit zones",
+      "lod": "skeletal LOD fallback; Nanite unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "stair_life_warden",
+      "legacyId": null,
+      "name": "Life Warden",
+      "displayNameKey": "creature_stair_life_warden",
+      "category": "celestial",
+      "floor": null,
+      "dungeonId": "stair",
+      "height": 5,
+      "heightCm": 500,
+      "habitat": "Stair of Eternity; life trial",
+      "silhouette": "branching quadruped",
+      "anatomy": "Articulated mineral frame with flexible joints",
+      "materials": "ceramic plates and luminous seams",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "telegraphed sweep",
+        "law-themed pulse"
+      ],
+      "vulnerability": "exposed joint during recovery",
+      "behavior": "Trial encounter; exact floor and mechanics pending level/combat review",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple primitives and authored hit zones",
+      "lod": "skeletal LOD fallback; Nanite unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "stair_death_warden",
+      "legacyId": null,
+      "name": "Death Warden",
+      "displayNameKey": "creature_stair_death_warden",
+      "category": "celestial",
+      "floor": null,
+      "dungeonId": "stair",
+      "height": 5,
+      "heightCm": 500,
+      "habitat": "Stair of Eternity; death trial",
+      "silhouette": "hollow biped",
+      "anatomy": "Articulated mineral frame with flexible joints",
+      "materials": "ceramic plates and luminous seams",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "telegraphed sweep",
+        "law-themed pulse"
+      ],
+      "vulnerability": "exposed joint during recovery",
+      "behavior": "Trial encounter; exact floor and mechanics pending level/combat review",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple primitives and authored hit zones",
+      "lod": "skeletal LOD fallback; Nanite unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "stair_matter_warden",
+      "legacyId": null,
+      "name": "Matter Warden",
+      "displayNameKey": "creature_stair_matter_warden",
+      "category": "celestial",
+      "floor": null,
+      "dungeonId": "stair",
+      "height": 5,
+      "heightCm": 500,
+      "habitat": "Stair of Eternity; matter trial",
+      "silhouette": "faceted tripod",
+      "anatomy": "Articulated mineral frame with flexible joints",
+      "materials": "ceramic plates and luminous seams",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "telegraphed sweep",
+        "law-themed pulse"
+      ],
+      "vulnerability": "exposed joint during recovery",
+      "behavior": "Trial encounter; exact floor and mechanics pending level/combat review",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple primitives and authored hit zones",
+      "lod": "skeletal LOD fallback; Nanite unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "stair_will_warden",
+      "legacyId": null,
+      "name": "Will Warden",
+      "displayNameKey": "creature_stair_will_warden",
+      "category": "celestial",
+      "floor": null,
+      "dungeonId": "stair",
+      "height": 5,
+      "heightCm": 500,
+      "habitat": "Stair of Eternity; will trial",
+      "silhouette": "open wing biped",
+      "anatomy": "Articulated mineral frame with flexible joints",
+      "materials": "ceramic plates and luminous seams",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "telegraphed sweep",
+        "law-themed pulse"
+      ],
+      "vulnerability": "exposed joint during recovery",
+      "behavior": "Trial encounter; exact floor and mechanics pending level/combat review",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple primitives and authored hit zones",
+      "lod": "skeletal LOD fallback; Nanite unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
+      "asset": null
+    },
+    {
+      "id": "stair_destiny_warden",
+      "legacyId": null,
+      "name": "Destiny Warden",
+      "displayNameKey": "creature_stair_destiny_warden",
+      "category": "celestial",
+      "floor": null,
+      "dungeonId": "stair",
+      "height": 5,
+      "heightCm": 500,
+      "habitat": "Stair of Eternity; destiny trial",
+      "silhouette": "forked crown",
+      "anatomy": "Articulated mineral frame with flexible joints",
+      "materials": "ceramic plates and luminous seams",
+      "locomotion": "walk/hover",
+      "attacks": [
+        "telegraphed sweep",
+        "law-themed pulse"
+      ],
+      "vulnerability": "exposed joint during recovery",
+      "behavior": "Trial encounter; exact floor and mechanics pending level/combat review",
+      "variants": [
+        "base"
+      ],
+      "rig": "custom skeleton",
+      "animations": [
+        "idle",
+        "locomotion",
+        "attack telegraph",
+        "attack",
+        "recovery",
+        "defeat"
+      ],
+      "collision": "simple primitives and authored hit zones",
+      "lod": "skeletal LOD fallback; Nanite unverified",
+      "revealChapter": 23,
+      "status": "specified",
+      "canonStatus": "proposed archetype",
+      "provenance": "Original department specification; all rights reserved",
       "asset": null
     }
-  ]
+  ],
+  "runtimeUnits": "centimeters",
+  "idMigration": "Legacy dotted IDs preserved as aliases; proposed canonical snake_case IDs require consumer review before use."
 }
