@@ -2,9 +2,9 @@
 
 ## Colonna sonora
 
-[Riferimento indicato dal committente](https://www.youtube.com/watch?v=6-QByuHv-JY&list=PLFHRxdgR3MH8JOUcavLuNgfCTzkXCjUQQ). L'accesso al video dall'ambiente Cloud ha restituito HTTP 403. L'analisi del riferimento è in sospeso.
+Riferimento confermato dal committente, [Final Fantasy XVI – Original Soundtrack](https://www.youtube.com/watch?v=6-QByuHv-JY&list=PLFHRxdgR3MH8JOUcavLuNgfCTzkXCjUQQ).
 
-Dopo l'ascolto, annotare strumentazione, ritmo, densità, dinamica e arco emotivo dei brani di riferimento. Usare questi parametri per comporre temi originali distinti per Valdris, Abisso, boss e Discrepanze. Produrre strati separati per esplorazione e combattimento dove il passaggio tra stati lo richiede. Registrare la provenienza di composizioni, registrazioni e campioni.
+Direzione proposta per EIDOLON. Alternare l'intimità dei temi di personaggio alla scala sinfonica e corale dei grandi scontri. Usare archi e strumenti solisti per Valdris e i legami familiari, tessiture scure e pulsazioni rade per l'Abisso, ottoni, percussioni e coro per le fasi culminanti dei boss. Nelle Discrepanze, ripresentare un motivo originale già ascoltato con orchestrazione, armonia o ritmo alterati. Produrre strati distinti per esplorazione e combattimento e registrare la provenienza di composizioni, registrazioni e campioni.
 
 ## Personaggi
 
