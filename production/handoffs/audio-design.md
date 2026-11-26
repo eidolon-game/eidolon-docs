@@ -1,0 +1,2 @@
+# Audio handoff
+2026-11-26 — initial isolated increment. Base docs/tools develop; game campaign-foundation (#6). No shared files modified. Catalog and spotting proposed; runtime adapter and synthesis work tracked in sibling branches. Quest/Save own gates and reality revision; UI owns settings; Combat owns telegraphs; World owns emitter positions; Screenplay owns line approval. Director review required for IDs, paths and mix choices. UE build, MetaSounds, recordings, full dialogue scripts, integration and listening tests outstanding. Do not merge before review.
