@@ -11,3 +11,6 @@ Third-person camera; real-time melee and magic; dodge, block, lock-on; attribute
 
 ## Vertical slice
 Home without Noah → Guild registration → first Abyss floor → anomaly → dormitory → home with Noah. Success: playable with keyboard/mouse and controller, persistent quest state, stable frame time and narrative continuity.
+
+## Cycle 02 production direction
+M2 sequence: home without Noah, Guild, first descent, dormitory, return and Noah reveal in chapter 2; chapter 3 continuation. Floor 90 monster speaks Ricorda; not floor 100 Guardian. Preserve all canonical content and four endings; first-descent script and quest mapping need cross-review. No quality or playtime targets validated.
