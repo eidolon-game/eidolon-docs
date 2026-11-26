@@ -1,0 +1,4 @@
+# Studio master plan
+Effective 2026-11-26. Owner: 00 Game Director.
+Canonical source: narrative/story.md. Product: single-player 3D dark fantasy action RPG, UE 5.6, PC first, authorized console ports later. Preserve 10 acts, 26 chapters, two 100-floor dungeons and four endings. AAA photorealism is a target, not achieved status.
+Milestones: M0 coordination and source checks; M1 verified Win64 combat sandbox; M2 First Descent vertical slice (home, guild, first descent, dormitory, Noah); M3 full campaign graybox with all endings and checkpoint recovery; M4 production art/audio/animation and full content; M5 optimization, localization, accessibility and release candidate; M6 authorized console certification. No dates promised. Each milestone must meet release-criteria.md. Parallel authoring permitted; integration controlled by director.
