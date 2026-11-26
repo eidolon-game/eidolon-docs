@@ -20,3 +20,26 @@ Riven sostiene la Gilda; Aiden e Theron privilegiano la protezione concreta. Le 
 
 Completion: Faction positions disclosed and companion decisions recorded; potential Riven confrontation conditional, not guaranteed.
 Dependencies: Quest maps validated events; Save persists state and diary; Cinematics stages scripted reveals; Audio records dialogue and environment cues. Detailed encounters, branching dialogue and localization review pending.
+
+## Cycle 02 production insert
+
+## ch_17_sc_003 — Campo, colloquio privato con Riven
+Available if Riven is alive and present. If absent, omit the scene, never substitute a new death or allegiance.
+- ch_17_sc_003_dl_001 — Riven: «Mio padre diceva che ogni muro è fatto di persone. Se cade, sono loro a pagare.»
+- ch_17_sc_003_dl_002 — Kael: «Non voglio abbatterlo senza sapere cosa c'è dall'altra parte.»
+Choice A:
+- ch_17_sc_003_dl_003 — Kael: «Ti chiedo di aiutarmi a trovare un'altra strada.»
+- ch_17_sc_003_dl_004 — Riven: «Ti ascolterò. Ma non ti prometto di seguirti.»
+Choice B:
+- ch_17_sc_003_dl_005 — Kael: «Se mi fermerai, non potrò tirarmi indietro.»
+- ch_17_sc_003_dl_006 — Riven: «Nemmeno io.»
+Both preserve his canonical initial loyalty. Quest/AI own resulting relationship delta; no numeric threshold invented.
+## ch_17_sc_004 — Tavolo delle mappe
+Optional conversation with available companions, each independent.
+- ch_17_sc_004_dl_001 — Iris: «Se almeno uno degli dei ci ascoltasse, varrebbe la pena provare.»
+- ch_17_sc_004_dl_002 — Selene: «Non voglio cambiare padrone. Voglio capire come smettere di averne.»
+- ch_17_sc_004_dl_003 — Nyra: «Per una volta siamo d'accordo.»
+- ch_17_sc_004_dl_004 — Aiden: «Mandatemi dove mancano gli scudi.»
+- ch_17_sc_004_dl_005 — Theron: «Io preparo il percorso per chi deve evacuare.»
+- ch_17_sc_004_dl_006 — Kael: «Non vi chiederò di essere d'accordo su tutto.»
+No mandatory presence or irreversible faction mutation from this cosmetic conversation.
