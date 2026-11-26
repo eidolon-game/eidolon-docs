@@ -1,0 +1,2 @@
+# Lore — integration increment
+Owner 09. Earlier draft remains in ../world-bible/; this directory is the preferred ownership path. registry-v2.json supplies snake_case IDs scoped by namespace, retaining legacy IDs for reconciliation. Dossiers are INTERNAL SPOILERS, not localized player strings. No automatic runtime import. Canon source remains narrative/story.md. Proposal decisions require director review.
