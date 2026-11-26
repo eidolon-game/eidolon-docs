@@ -1,0 +1,3761 @@
+{
+  "schemaVersion": 1,
+  "source": [
+    {
+      "repo": "eidolon-game/eidolon-docs",
+      "ref": "feature/world-bible",
+      "path": "narrative/lore/registry-v2.json",
+      "blob": "22e5787d1898d3ebd7a8a14d0ca74401a56d9500"
+    },
+    {
+      "repo": "eidolon-game/eidolon-docs",
+      "ref": "feature/creature-art",
+      "path": "art/creatures/bestiary.json",
+      "blob": "106b812b241dd3a25ac4fd2b82191e2f047fb481"
+    },
+    {
+      "repo": "eidolon-game/eidolon-game",
+      "ref": "feature/open-world",
+      "path": "Content/Eidolon/Data/OpenWorld/world_v2.json",
+      "blob": "2a1ff70193540fdb5d472d36e58ecc2c24aa8686"
+    },
+    {
+      "repo": "eidolon-game/eidolon-game",
+      "ref": "feature/dungeons-level-design",
+      "path": "Source/Eidolon/Dungeons/Data/floor_identity_map.json",
+      "blob": "dc92435da9330136b2b42a5aaf09681f1a41c4b4"
+    },
+    {
+      "repo": "eidolon-game/eidolon-game",
+      "ref": "feature/quest-dialogue",
+      "path": "Data/Quests/campaign_quests.json",
+      "blob": "2034c0e44d2b71b49a1061bab2049ecad7ce050e"
+    }
+  ],
+  "records": [
+    {
+      "source": "quest_npc",
+      "external": "darius",
+      "target": "character.darius",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "elara",
+      "target": "character.elara",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "aldren",
+      "target": "character.aldren",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "kael",
+      "target": "character.kael",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "noah",
+      "target": "character.noah",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "riven",
+      "target": "character.riven",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "custode",
+      "target": "creature.abyss_guardian",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "avventuriero",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "quest_npc",
+      "external": "edran",
+      "target": "character.edran",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "lucien",
+      "target": "character.lucien",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "bambina",
+      "target": "character.vareth_child",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "ricercatore",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "quest_npc",
+      "external": "iris",
+      "target": "character.iris",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "selene",
+      "target": "character.selene",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "archivio",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "quest_npc",
+      "external": "nhalor",
+      "target": "deity.nhalor",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "elyria",
+      "target": "deity.elyria",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "quest_npc",
+      "external": "aurelion",
+      "target": "deity.aurelion",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_catacomb_crawler",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.catacomb.crawler",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_forest_stalker",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.forest.stalker",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_mine_borer",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.mine.borer",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_sunken_lurker",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.sunken.lurker",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_crystal_strider",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.crystal.strider",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_necropolis_sentinel",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.necropolis.sentinel",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_forge_mauler",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.forge.mauler",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_inverse_hunter",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.inverse.hunter",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_silence_echo",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.silence.echo",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "abyss_heart_watcher",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "abyss.heart.watcher",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_guardian",
+      "target": "creature.abyss_guardian",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "boss.abyss.guardian",
+      "target": "creature.abyss_guardian",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "giant_valdris",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "giant.valdris",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "giant_ignareth",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "giant.ignareth",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "giant_thalassar",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "giant.thalassar",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "giant_nordheim",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "giant.nordheim",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "giant_solkar",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "giant.solkar",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "giant_elyndor",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "giant.elyndor",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "giant_aureth",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "giant.aureth",
+      "target": "creature.giant",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "titan_roaming",
+      "target": "creature.titan",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "titan.roaming",
+      "target": "creature.titan",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "titan_ancient",
+      "target": "creature.titan",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "titan.ancient",
+      "target": "creature.titan",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "oblivion_echo",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "oblivion.echo",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "celestial_sentinel",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "celestial.sentinel",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "celestial_forming_titan",
+      "target": "creature.titan",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "celestial.forming_titan",
+      "target": "creature.titan",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "divine_aurelion",
+      "target": "deity.aurelion",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "divine.aurelion",
+      "target": "deity.aurelion",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "divine_veyra",
+      "target": "deity.veyra",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "divine.veyra",
+      "target": "deity.veyra",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "divine_morveth",
+      "target": "deity.morveth",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "divine.morveth",
+      "target": "deity.morveth",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "divine_chronar",
+      "target": "deity.chronar",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "divine.chronar",
+      "target": "deity.chronar",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "divine_ignivar",
+      "target": "deity.ignivar",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "divine.ignivar",
+      "target": "deity.ignivar",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "divine_elyria",
+      "target": "deity.elyria",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "divine.elyria",
+      "target": "deity.elyria",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "divine_nhalor",
+      "target": "deity.nhalor",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_legacy",
+      "external": "divine.nhalor",
+      "target": "deity.nhalor",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_10",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_20",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_30",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_40",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_50",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_60",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_70",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_80",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "boss_abyss_90",
+      "target": "creature.monster",
+      "relation": "archetype_of",
+      "status": "mapped"
+    },
+    {
+      "source": "creature_art",
+      "external": "stair_time_warden",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "stair_memory_warden",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "stair_life_warden",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "stair_death_warden",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "stair_matter_warden",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "stair_will_warden",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "creature_art",
+      "external": "stair_destiny_warden",
+      "target": null,
+      "relation": "unresolved",
+      "status": "review"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris",
+      "target": "city.valdris",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris_outer",
+      "target": "city.valdris",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "ignareth",
+      "target": "city.ignareth",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "ignareth_outer",
+      "target": "city.ignareth",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "thalassar",
+      "target": "city.thalassar",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "thalassar_outer",
+      "target": "city.thalassar",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "nordheim",
+      "target": "city.nordheim",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "nordheim_outer",
+      "target": "city.nordheim",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "solkar",
+      "target": "city.solkar",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "solkar_outer",
+      "target": "city.solkar",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "elyndor",
+      "target": "city.elyndor",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "elyndor_outer",
+      "target": "city.elyndor",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "aureth",
+      "target": "city.aureth",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "aureth_outer",
+      "target": "city.aureth",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "vareth",
+      "target": "city.vareth",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "vareth_outer",
+      "target": "city.vareth",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris_giants",
+      "target": "city.valdris",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris_home",
+      "target": "city.valdris",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris_guild",
+      "target": "city.valdris",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris_abyss",
+      "target": "city.valdris",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris_forge",
+      "target": "city.valdris",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_node",
+      "external": "valdris_dormitory",
+      "target": "city.valdris",
+      "relation": "located_in",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "valdris.outer",
+      "target": "world_node:valdris_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "ignareth.outer",
+      "target": "world_node:ignareth_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "thalassar.outer",
+      "target": "world_node:thalassar_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "nordheim.outer",
+      "target": "world_node:nordheim_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "solkar.outer",
+      "target": "world_node:solkar_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "elyndor.outer",
+      "target": "world_node:elyndor_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "aureth.outer",
+      "target": "world_node:aureth_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "vareth.outer",
+      "target": "world_node:vareth_outer",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "valdris.giants",
+      "target": "world_node:valdris_giants",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "valdris.home",
+      "target": "world_node:valdris_home",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "valdris.guild",
+      "target": "world_node:valdris_guild",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "valdris.abyss",
+      "target": "world_node:valdris_abyss",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "valdris.forge",
+      "target": "world_node:valdris_forge",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "world_legacy",
+      "external": "valdris.dormitory",
+      "target": "world_node:valdris_dormitory",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.001",
+      "target": "floor:abyss_001",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_001",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.002",
+      "target": "floor:abyss_002",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_002",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.003",
+      "target": "floor:abyss_003",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_003",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.004",
+      "target": "floor:abyss_004",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_004",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.005",
+      "target": "floor:abyss_005",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_005",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.006",
+      "target": "floor:abyss_006",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_006",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.007",
+      "target": "floor:abyss_007",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_007",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.008",
+      "target": "floor:abyss_008",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_008",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.009",
+      "target": "floor:abyss_009",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_009",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.010",
+      "target": "floor:abyss_010",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_010",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.011",
+      "target": "floor:abyss_011",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_011",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.012",
+      "target": "floor:abyss_012",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_012",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.013",
+      "target": "floor:abyss_013",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_013",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.014",
+      "target": "floor:abyss_014",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_014",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.015",
+      "target": "floor:abyss_015",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_015",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.016",
+      "target": "floor:abyss_016",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_016",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.017",
+      "target": "floor:abyss_017",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_017",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.018",
+      "target": "floor:abyss_018",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_018",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.019",
+      "target": "floor:abyss_019",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_019",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.020",
+      "target": "floor:abyss_020",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_020",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.021",
+      "target": "floor:abyss_021",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_021",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.022",
+      "target": "floor:abyss_022",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_022",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.023",
+      "target": "floor:abyss_023",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_023",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.024",
+      "target": "floor:abyss_024",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_024",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.025",
+      "target": "floor:abyss_025",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_025",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.026",
+      "target": "floor:abyss_026",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_026",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.027",
+      "target": "floor:abyss_027",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_027",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.028",
+      "target": "floor:abyss_028",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_028",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.029",
+      "target": "floor:abyss_029",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_029",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.030",
+      "target": "floor:abyss_030",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_030",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.031",
+      "target": "floor:abyss_031",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_031",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.032",
+      "target": "floor:abyss_032",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_032",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.033",
+      "target": "floor:abyss_033",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_033",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.034",
+      "target": "floor:abyss_034",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_034",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.035",
+      "target": "floor:abyss_035",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_035",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.036",
+      "target": "floor:abyss_036",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_036",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.037",
+      "target": "floor:abyss_037",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_037",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.038",
+      "target": "floor:abyss_038",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_038",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.039",
+      "target": "floor:abyss_039",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_039",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.040",
+      "target": "floor:abyss_040",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_040",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.041",
+      "target": "floor:abyss_041",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_041",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.042",
+      "target": "floor:abyss_042",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_042",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.043",
+      "target": "floor:abyss_043",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_043",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.044",
+      "target": "floor:abyss_044",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_044",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.045",
+      "target": "floor:abyss_045",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_045",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.046",
+      "target": "floor:abyss_046",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_046",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.047",
+      "target": "floor:abyss_047",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_047",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.048",
+      "target": "floor:abyss_048",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_048",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.049",
+      "target": "floor:abyss_049",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_049",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.050",
+      "target": "floor:abyss_050",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_050",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.051",
+      "target": "floor:abyss_051",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_051",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.052",
+      "target": "floor:abyss_052",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_052",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.053",
+      "target": "floor:abyss_053",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_053",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.054",
+      "target": "floor:abyss_054",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_054",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.055",
+      "target": "floor:abyss_055",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_055",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.056",
+      "target": "floor:abyss_056",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_056",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.057",
+      "target": "floor:abyss_057",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_057",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.058",
+      "target": "floor:abyss_058",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_058",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.059",
+      "target": "floor:abyss_059",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_059",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.060",
+      "target": "floor:abyss_060",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_060",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.061",
+      "target": "floor:abyss_061",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_061",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.062",
+      "target": "floor:abyss_062",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_062",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.063",
+      "target": "floor:abyss_063",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_063",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.064",
+      "target": "floor:abyss_064",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_064",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.065",
+      "target": "floor:abyss_065",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_065",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.066",
+      "target": "floor:abyss_066",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_066",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.067",
+      "target": "floor:abyss_067",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_067",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.068",
+      "target": "floor:abyss_068",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_068",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.069",
+      "target": "floor:abyss_069",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_069",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.070",
+      "target": "floor:abyss_070",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_070",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.071",
+      "target": "floor:abyss_071",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_071",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.072",
+      "target": "floor:abyss_072",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_072",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.073",
+      "target": "floor:abyss_073",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_073",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.074",
+      "target": "floor:abyss_074",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_074",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.075",
+      "target": "floor:abyss_075",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_075",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.076",
+      "target": "floor:abyss_076",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_076",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.077",
+      "target": "floor:abyss_077",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_077",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.078",
+      "target": "floor:abyss_078",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_078",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.079",
+      "target": "floor:abyss_079",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_079",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.080",
+      "target": "floor:abyss_080",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_080",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.081",
+      "target": "floor:abyss_081",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_081",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.082",
+      "target": "floor:abyss_082",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_082",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.083",
+      "target": "floor:abyss_083",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_083",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.084",
+      "target": "floor:abyss_084",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_084",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.085",
+      "target": "floor:abyss_085",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_085",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.086",
+      "target": "floor:abyss_086",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_086",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.087",
+      "target": "floor:abyss_087",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_087",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.088",
+      "target": "floor:abyss_088",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_088",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.089",
+      "target": "floor:abyss_089",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_089",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.090",
+      "target": "floor:abyss_090",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_090",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.091",
+      "target": "floor:abyss_091",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_091",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.092",
+      "target": "floor:abyss_092",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_092",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.093",
+      "target": "floor:abyss_093",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_093",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.094",
+      "target": "floor:abyss_094",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_094",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.095",
+      "target": "floor:abyss_095",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_095",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.096",
+      "target": "floor:abyss_096",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_096",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.097",
+      "target": "floor:abyss_097",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_097",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.098",
+      "target": "floor:abyss_098",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_098",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.099",
+      "target": "floor:abyss_099",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_099",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "abyss.100",
+      "target": "floor:abyss_100",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "abyss_100",
+      "target": "dungeon.abyss",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.001",
+      "target": "floor:stair_001",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_001",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.002",
+      "target": "floor:stair_002",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_002",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.003",
+      "target": "floor:stair_003",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_003",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.004",
+      "target": "floor:stair_004",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_004",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.005",
+      "target": "floor:stair_005",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_005",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.006",
+      "target": "floor:stair_006",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_006",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.007",
+      "target": "floor:stair_007",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_007",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.008",
+      "target": "floor:stair_008",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_008",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.009",
+      "target": "floor:stair_009",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_009",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.010",
+      "target": "floor:stair_010",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_010",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.011",
+      "target": "floor:stair_011",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_011",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.012",
+      "target": "floor:stair_012",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_012",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.013",
+      "target": "floor:stair_013",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_013",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.014",
+      "target": "floor:stair_014",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_014",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.015",
+      "target": "floor:stair_015",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_015",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.016",
+      "target": "floor:stair_016",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_016",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.017",
+      "target": "floor:stair_017",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_017",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.018",
+      "target": "floor:stair_018",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_018",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.019",
+      "target": "floor:stair_019",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_019",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.020",
+      "target": "floor:stair_020",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_020",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.021",
+      "target": "floor:stair_021",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_021",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.022",
+      "target": "floor:stair_022",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_022",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.023",
+      "target": "floor:stair_023",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_023",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.024",
+      "target": "floor:stair_024",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_024",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.025",
+      "target": "floor:stair_025",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_025",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.026",
+      "target": "floor:stair_026",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_026",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.027",
+      "target": "floor:stair_027",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_027",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.028",
+      "target": "floor:stair_028",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_028",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.029",
+      "target": "floor:stair_029",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_029",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.030",
+      "target": "floor:stair_030",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_030",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.031",
+      "target": "floor:stair_031",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_031",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.032",
+      "target": "floor:stair_032",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_032",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.033",
+      "target": "floor:stair_033",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_033",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.034",
+      "target": "floor:stair_034",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_034",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.035",
+      "target": "floor:stair_035",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_035",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.036",
+      "target": "floor:stair_036",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_036",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.037",
+      "target": "floor:stair_037",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_037",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.038",
+      "target": "floor:stair_038",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_038",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.039",
+      "target": "floor:stair_039",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_039",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.040",
+      "target": "floor:stair_040",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_040",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.041",
+      "target": "floor:stair_041",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_041",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.042",
+      "target": "floor:stair_042",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_042",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.043",
+      "target": "floor:stair_043",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_043",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.044",
+      "target": "floor:stair_044",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_044",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.045",
+      "target": "floor:stair_045",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_045",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.046",
+      "target": "floor:stair_046",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_046",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.047",
+      "target": "floor:stair_047",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_047",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.048",
+      "target": "floor:stair_048",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_048",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.049",
+      "target": "floor:stair_049",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_049",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.050",
+      "target": "floor:stair_050",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_050",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.051",
+      "target": "floor:stair_051",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_051",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.052",
+      "target": "floor:stair_052",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_052",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.053",
+      "target": "floor:stair_053",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_053",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.054",
+      "target": "floor:stair_054",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_054",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.055",
+      "target": "floor:stair_055",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_055",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.056",
+      "target": "floor:stair_056",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_056",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.057",
+      "target": "floor:stair_057",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_057",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.058",
+      "target": "floor:stair_058",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_058",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.059",
+      "target": "floor:stair_059",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_059",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.060",
+      "target": "floor:stair_060",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_060",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.061",
+      "target": "floor:stair_061",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_061",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.062",
+      "target": "floor:stair_062",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_062",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.063",
+      "target": "floor:stair_063",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_063",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.064",
+      "target": "floor:stair_064",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_064",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.065",
+      "target": "floor:stair_065",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_065",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.066",
+      "target": "floor:stair_066",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_066",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.067",
+      "target": "floor:stair_067",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_067",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.068",
+      "target": "floor:stair_068",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_068",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.069",
+      "target": "floor:stair_069",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_069",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.070",
+      "target": "floor:stair_070",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_070",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.071",
+      "target": "floor:stair_071",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_071",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.072",
+      "target": "floor:stair_072",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_072",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.073",
+      "target": "floor:stair_073",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_073",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.074",
+      "target": "floor:stair_074",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_074",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.075",
+      "target": "floor:stair_075",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_075",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.076",
+      "target": "floor:stair_076",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_076",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.077",
+      "target": "floor:stair_077",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_077",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.078",
+      "target": "floor:stair_078",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_078",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.079",
+      "target": "floor:stair_079",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_079",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.080",
+      "target": "floor:stair_080",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_080",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.081",
+      "target": "floor:stair_081",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_081",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.082",
+      "target": "floor:stair_082",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_082",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.083",
+      "target": "floor:stair_083",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_083",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.084",
+      "target": "floor:stair_084",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_084",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.085",
+      "target": "floor:stair_085",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_085",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.086",
+      "target": "floor:stair_086",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_086",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.087",
+      "target": "floor:stair_087",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_087",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.088",
+      "target": "floor:stair_088",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_088",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.089",
+      "target": "floor:stair_089",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_089",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.090",
+      "target": "floor:stair_090",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_090",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.091",
+      "target": "floor:stair_091",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_091",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.092",
+      "target": "floor:stair_092",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_092",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.093",
+      "target": "floor:stair_093",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_093",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.094",
+      "target": "floor:stair_094",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_094",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.095",
+      "target": "floor:stair_095",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_095",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.096",
+      "target": "floor:stair_096",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_096",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.097",
+      "target": "floor:stair_097",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_097",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.098",
+      "target": "floor:stair_098",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_098",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.099",
+      "target": "floor:stair_099",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_099",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "floor_legacy",
+      "external": "eternity.100",
+      "target": "floor:stair_100",
+      "relation": "alias",
+      "status": "mapped"
+    },
+    {
+      "source": "floor",
+      "external": "stair_100",
+      "target": "dungeon.stairway",
+      "relation": "part_of",
+      "status": "mapped"
+    },
+    {
+      "source": "dungeon_runtime",
+      "external": "stair",
+      "target": "dungeon.stairway",
+      "relation": "identity",
+      "status": "mapped"
+    },
+    {
+      "source": "dungeon_runtime",
+      "external": "abyss",
+      "target": "dungeon.abyss",
+      "relation": "identity",
+      "status": "mapped"
+    }
+  ]
+}
