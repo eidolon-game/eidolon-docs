@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 2,
+  "sourceBlob": "1472f5be51fcfff4c7020d14cc70ab1723ac8104",
+  "records": [
+    {
+      "namespace": "city",
+      "id": "valdris",
+      "legacyId": "city.valdris",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "city",
+      "id": "ignareth",
+      "legacyId": "city.ignareth",
+      "earliestChapter": 8,
+      "status": "canon"
+    },
+    {
+      "namespace": "city",
+      "id": "thalassar",
+      "legacyId": "city.thalassar",
+      "earliestChapter": 8,
+      "status": "canon"
+    },
+    {
+      "namespace": "city",
+      "id": "nordheim",
+      "legacyId": "city.nordheim",
+      "earliestChapter": 8,
+      "status": "canon"
+    },
+    {
+      "namespace": "city",
+      "id": "solkar",
+      "legacyId": "city.solkar",
+      "earliestChapter": 8,
+      "status": "canon"
+    },
+    {
+      "namespace": "city",
+      "id": "elyndor",
+      "legacyId": "city.elyndor",
+      "earliestChapter": 8,
+      "status": "canon"
+    },
+    {
+      "namespace": "city",
+      "id": "aureth",
+      "legacyId": "city.aureth",
+      "earliestChapter": 8,
+      "status": "canon"
+    },
+    {
+      "namespace": "city",
+      "id": "vareth",
+      "legacyId": "city.vareth",
+      "earliestChapter": 10,
+      "status": "canon"
+    },
+    {
+      "namespace": "realm",
+      "id": "empyrea",
+      "legacyId": "realm.empyrea",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "realm",
+      "id": "oblivion",
+      "legacyId": "realm.oblivion",
+      "earliestChapter": 19,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "kael",
+      "legacyId": "character.kael",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "darius",
+      "legacyId": "character.darius",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "elara",
+      "legacyId": "character.elara",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "lyra",
+      "legacyId": "character.lyra",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "noah",
+      "legacyId": "character.noah",
+      "earliestChapter": 2,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "riven",
+      "legacyId": "character.riven",
+      "earliestChapter": 3,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "aiden",
+      "legacyId": "character.aiden",
+      "earliestChapter": 3,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "selene",
+      "legacyId": "character.selene",
+      "earliestChapter": 3,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "nyra",
+      "legacyId": "character.nyra",
+      "earliestChapter": 3,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "theron",
+      "legacyId": "character.theron",
+      "earliestChapter": 3,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "iris",
+      "legacyId": "character.iris",
+      "earliestChapter": 3,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "aldren",
+      "legacyId": "character.aldren",
+      "earliestChapter": 4,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "lucien",
+      "legacyId": "character.lucien",
+      "earliestChapter": 7,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "edran",
+      "legacyId": "character.edran",
+      "earliestChapter": 6,
+      "status": "canon"
+    },
+    {
+      "namespace": "character",
+      "id": "vareth_child",
+      "legacyId": "character.vareth_child",
+      "earliestChapter": 10,
+      "status": "canon"
+    },
+    {
+      "namespace": "faction",
+      "id": "aegis",
+      "legacyId": "faction.aegis",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "faction",
+      "id": "eternal_aegis",
+      "legacyId": "faction.eternal_aegis",
+      "earliestChapter": 17,
+      "status": "canon"
+    },
+    {
+      "namespace": "faction",
+      "id": "children_of_dawn",
+      "legacyId": "faction.children_of_dawn",
+      "earliestChapter": 17,
+      "status": "canon"
+    },
+    {
+      "namespace": "faction",
+      "id": "fateless",
+      "legacyId": "faction.fateless",
+      "earliestChapter": 17,
+      "status": "canon"
+    },
+    {
+      "namespace": "artifact",
+      "id": "heart",
+      "legacyId": "artifact.heart",
+      "earliestChapter": 14,
+      "status": "canon"
+    },
+    {
+      "namespace": "artifact",
+      "id": "aegis_seal",
+      "legacyId": "artifact.aegis_seal",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "artifact",
+      "id": "horizon_seal",
+      "legacyId": "artifact.horizon_seal",
+      "earliestChapter": 7,
+      "status": "canon"
+    },
+    {
+      "namespace": "concept",
+      "id": "origin",
+      "legacyId": "concept.origin",
+      "earliestChapter": 24,
+      "status": "canon"
+    },
+    {
+      "namespace": "concept",
+      "id": "discrepancy",
+      "legacyId": "concept.discrepancy",
+      "earliestChapter": 6,
+      "status": "canon"
+    },
+    {
+      "namespace": "concept",
+      "id": "eidolon",
+      "legacyId": "concept.eidolon",
+      "earliestChapter": 15,
+      "status": "canon"
+    },
+    {
+      "namespace": "creature",
+      "id": "monster",
+      "legacyId": "creature.monster",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "creature",
+      "id": "giant",
+      "legacyId": "creature.giant",
+      "earliestChapter": 4,
+      "status": "canon"
+    },
+    {
+      "namespace": "creature",
+      "id": "titan",
+      "legacyId": "creature.titan",
+      "earliestChapter": 7,
+      "status": "canon"
+    },
+    {
+      "namespace": "creature",
+      "id": "abyss_guardian",
+      "legacyId": "creature.abyss_guardian",
+      "earliestChapter": 4,
+      "status": "canon"
+    },
+    {
+      "namespace": "dungeon",
+      "id": "abyss",
+      "legacyId": "dungeon.abyss",
+      "earliestChapter": 1,
+      "status": "canon"
+    },
+    {
+      "namespace": "dungeon",
+      "id": "stairway",
+      "legacyId": "dungeon.stairway",
+      "earliestChapter": 23,
+      "status": "canon"
+    },
+    {
+      "namespace": "deity",
+      "id": "aurelion",
+      "legacyId": "deity.aurelion",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "deity",
+      "id": "veyra",
+      "legacyId": "deity.veyra",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "deity",
+      "id": "morveth",
+      "legacyId": "deity.morveth",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "deity",
+      "id": "chronar",
+      "legacyId": "deity.chronar",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "deity",
+      "id": "ignivar",
+      "legacyId": "deity.ignivar",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "deity",
+      "id": "elyria",
+      "legacyId": "deity.elyria",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "deity",
+      "id": "nhalor",
+      "legacyId": "deity.nhalor",
+      "earliestChapter": 12,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "noah_appears",
+      "legacyId": "reveal.noah_appears",
+      "earliestChapter": 2,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "abyss_containment",
+      "legacyId": "reveal.abyss_containment",
+      "earliestChapter": 4,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "monster_source",
+      "legacyId": "reveal.monster_source",
+      "earliestChapter": 5,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "titan_cycle",
+      "legacyId": "reveal.titan_cycle",
+      "earliestChapter": 9,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "vareth_erased",
+      "legacyId": "reveal.vareth_erased",
+      "earliestChapter": 10,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "divine_titans",
+      "legacyId": "reveal.divine_titans",
+      "earliestChapter": 11,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "founders_immortal",
+      "legacyId": "reveal.founders_immortal",
+      "earliestChapter": 13,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "heart_theft",
+      "legacyId": "reveal.heart_theft",
+      "earliestChapter": 14,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "eidolon_cause",
+      "legacyId": "reveal.eidolon_cause",
+      "earliestChapter": 15,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "noah_origin",
+      "legacyId": "reveal.noah_origin",
+      "earliestChapter": 16,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "energy_cycle",
+      "legacyId": "reveal.energy_cycle",
+      "earliestChapter": 18,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "oblivion",
+      "legacyId": "reveal.oblivion",
+      "earliestChapter": 19,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "oblivion_access",
+      "legacyId": "reveal.oblivion_access",
+      "earliestChapter": 20,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "noah_erased",
+      "legacyId": "reveal.noah_erased",
+      "earliestChapter": 22,
+      "status": "canon"
+    },
+    {
+      "namespace": "reveal",
+      "id": "origin_truth",
+      "legacyId": "reveal.origin_truth",
+      "earliestChapter": 24,
+      "status": "canon"
+    },
+    {
+      "namespace": "text",
+      "id": "valdris_notice",
+      "legacyId": "text.valdris_notice",
+      "earliestChapter": 1,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "darius_note",
+      "legacyId": "text.darius_note",
+      "earliestChapter": 1,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "noah_drawing",
+      "legacyId": "text.noah_drawing",
+      "earliestChapter": 2,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "containment_log",
+      "legacyId": "text.containment_log",
+      "earliestChapter": 4,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "edran_fragment",
+      "legacyId": "text.edran_fragment",
+      "earliestChapter": 6,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "vareth_memory",
+      "legacyId": "text.vareth_memory",
+      "earliestChapter": 10,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "old_prayer",
+      "legacyId": "text.old_prayer",
+      "earliestChapter": 12,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "fateless_letter",
+      "legacyId": "text.fateless_letter",
+      "earliestChapter": 17,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "oblivion_testimony",
+      "legacyId": "text.oblivion_testimony",
+      "earliestChapter": 20,
+      "status": "proposal"
+    },
+    {
+      "namespace": "text",
+      "id": "stairway_inscription",
+      "legacyId": "text.stairway_inscription",
+      "earliestChapter": 23,
+      "status": "proposal"
+    }
+  ]
+}
