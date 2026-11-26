@@ -11,6 +11,8 @@ Proposta di level design per la fascia canonica che collega Foresta Sepolta e Re
 
 Il modello del Perforatore misura circa 418 × 494 × 301 cm in posa neutra. Le placche posteriori si aprono verso l’esterno. In due render con camera fissa, la posa di recupero espone la cuticola ocra sui fianchi e alla base del dorso. L’ingombro visivo guida la larghezza della galleria e delle rientranze. Verificare in Unreal le distanze di passaggio con la capsula del giocatore, le collisioni della creatura e la visibilità durante l’animazione. [Modello e prove Blender](https://github.com/eidolon-game/eidolon-tools/tree/1c5996d808f91a26af822eaf561e6b367c8c4c31/previews/lost-mines)
 
+I sorgenti del blockout e dell’incontro del piano 21 sono pubblicati. Il controllo offline conferma 73 celle, percorsi verso entrambe le nicchie fuori dalla corsia di carica e accesso al chiavistello con l’uscita ancora chiusa. I test C++ autonomi coprono la carica e la ricevuta del chiavistello. Restano da riprodurre in UE 5.6 il viaggio, le collisioni e la ripresa del salvataggio. [Sorgenti](https://github.com/eidolon-game/eidolon-game/commit/129ad709b3f71d305319347d174995a1c2298c81) · [Pianta](https://github.com/eidolon-game/eidolon-game/blob/129ad709b3f71d305319347d174995a1c2298c81/docs/media/quarry-threshold-layout.png)
+
 ## Progressione della fascia
 
 | Piano | Geometria e incontro | Interazione e condizione d'uscita |
